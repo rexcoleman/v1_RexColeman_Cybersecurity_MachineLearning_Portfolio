@@ -1,7 +1,5 @@
-# RexColeman_Cybersecurity_MachineLearning_Portfolio
+# Rex Colemane Machine Learning + Cybersecurity_MachineLearning_Portfolio
 A curated collection of machine learning projects demonstrating practical applications and advanced methodologies.
-
-# Data Science + Cybersecurity Portfolio
 
 ## Introduction
 Welcome to my Data Science and Cybersecurity Portfolio. As a seasoned data scientist with extensive experience in cybersecurity, I aim to showcase my comprehensive skill set through a series of projects that blend advanced data science methodologies with robust cybersecurity principles. This portfolio highlights my strategy of intentionally building upon leading projects from Kaggle to accelerate my learning curve and develop a top 1% data science skill set. Each project is carefully selected and meticulously crafted to demonstrate my proficiency and dedication to the field.
