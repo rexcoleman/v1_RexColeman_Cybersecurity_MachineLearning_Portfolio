@@ -1,11 +1,11 @@
-# Rex Colemane Machine Learning + Cybersecurity_MachineLearning_Portfolio
+# Rex Coleman Machine Learning + Cybersecurity_MachineLearning_Portfolio
 A curated collection of machine learning projects demonstrating practical applications and advanced methodologies.
 
 ## Introduction
-Welcome to my Data Science and Cybersecurity Portfolio. As a seasoned data scientist with extensive experience in cybersecurity, I aim to showcase my comprehensive skill set through a series of projects that blend advanced data science methodologies with robust cybersecurity principles. This portfolio highlights my strategy of intentionally building upon leading projects from Kaggle to accelerate my learning curve and develop a top 1% data science skill set. Each project is carefully selected and meticulously crafted to demonstrate my proficiency and dedication to the field.
+Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data scientist with extensive experience in cybersecurity, I aim to showcase my comprehensive skill set through a series of projects that blend advanced data science methodologies with robust cybersecurity principles. This portfolio highlights my strategy of intentionally building upon leading projects from Kaggle to accelerate my learning curve and develop a top 1% data science skill set. Each project is carefully selected and meticulously crafted to demonstrate my proficiency and dedication to the field.
 
 ## About Me
-I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I hold a degree in [Your Degree] from [Your University] and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
+I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Gerogia Tech, hold an MBA from Melbourn Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
 
 ## Technical Skills
 - **Programming Languages:** Python, R, SQL
