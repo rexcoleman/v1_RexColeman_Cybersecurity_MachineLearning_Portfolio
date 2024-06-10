@@ -1,4 +1,4 @@
-# Rex Coleman Machine Learning + Cybersecurity_MachineLearning_Portfolio
+# Rex Coleman Machine Learning + Cybersecurity Portfolio
 A curated collection of machine learning projects demonstrating practical applications and advanced methodologies.
 
 ## Introduction
