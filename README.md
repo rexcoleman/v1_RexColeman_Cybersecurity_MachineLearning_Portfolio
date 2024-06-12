@@ -24,45 +24,15 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Techniques:** Regression, classification, clustering, neural networks, convolutional neural networks, sequence models, ensembling, stacking
 
 ### Models
-- **Ensemble Methods:** 
-  - AdaBoost
-  - Bagging
-  - ExtraTrees
-  - GradientBoosting
-  - RandomForest
-
-- **Gaussian Processes:**
-  - GaussianProcessClassifier
-
-- **Generalized Linear Models (GLM):**
-  - LogisticRegressionCV
-  - PassiveAggressiveClassifier
-  - RidgeClassifierCV
-  - SGDClassifier
-  - Perceptron
-
-- **Naive Bayes:**
-  - BernoulliNB
-  - GaussianNB
-
-- **Nearest Neighbors:**
-  - KNeighborsClassifier
-
-- **Support Vector Machines (SVM):**
-  - SVC
-  - NuSVC
-  - LinearSVC
-
-- **Trees:**
-  - DecisionTreeClassifier
-  - ExtraTreeClassifier
-
-- **Discriminant Analysis:**
-  - LinearDiscriminantAnalysis
-  - QuadraticDiscriminantAnalysis
-
-- **XGBoost:**
-  - XGBClassifier
+- **Ensemble Methods:** AdaBoost, Bagging, ExtraTrees, GradientBoosting, RandomForest
+- **Gaussian Processes:** GaussianProcessClassifier
+- **Generalized Linear Models (GLM):** LogisticRegressionCV, PassiveAggressiveClassifier, RidgeClassifierCV, SGDClassifier,Perceptron
+- **Naive Bayes:** BernoulliNB, GaussianNB
+- **Nearest Neighbors:** KNeighborsClassifier
+- **Support Vector Machines (SVM):** SVC, NuSVC, LinearSVC
+- **Trees:** DecisionTreeClassifier, ExtraTreeClassifier
+- **Discriminant Analysis:** LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
+- **XGBoost:** XGBClassifier
 
 ## Methodologies and Best Practices
 - **Project Management:** Version control with Git, comprehensive documentation, organized code structure
