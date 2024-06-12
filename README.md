@@ -1,4 +1,4 @@
-# Rex Coleman Machine Learning + Cybersecurity Portfolio
+# Rex Coleman Machine Learning Cybersecurity Portfolio
 A curated collection of machine learning projects demonstrating practical applications and advanced methodologies.
 
 ## Introduction
@@ -7,11 +7,62 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
 ## About Me
 I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Gerogia Tech, hold an MBA from Melbourn Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
 
-## Technical Skills
-- **Programming Languages:** Python, R, SQL
-- **Tools and Technologies:** TensorFlow, PyTorch, Scikit-Learn, LightGBM
-- **Data Handling and Analysis:** Data preprocessing, feature engineering, exploratory data analysis
-- **Machine Learning and Deep Learning:** Regression, classification, clustering, neural networks
+### Programming Languages
+- **Python**
+- **SQL**
+
+### Tools and Technologies
+- **Machine Learning and Deep Learning Frameworks:** TensorFlow, Scikit-Learn
+- **Data Manipulation and Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Others:** SciPy, itertools, Graphviz, os, sys, IPython, random, time, Dask, tqdm, pickle
+
+### Data Handling and Analysis
+- **Processes:** Data preprocessing, feature engineering, exploratory data analysis
+
+### Machine Learning and Deep Learning
+- **Techniques:** Regression, classification, clustering, neural networks, convolutional neural networks, sequence models, ensembling, stacking
+
+### Models
+- **Ensemble Methods:** 
+  - AdaBoost
+  - Bagging
+  - ExtraTrees
+  - GradientBoosting
+  - RandomForest
+
+- **Gaussian Processes:**
+  - GaussianProcessClassifier
+
+- **Generalized Linear Models (GLM):**
+  - LogisticRegressionCV
+  - PassiveAggressiveClassifier
+  - RidgeClassifierCV
+  - SGDClassifier
+  - Perceptron
+
+- **Naive Bayes:**
+  - BernoulliNB
+  - GaussianNB
+
+- **Nearest Neighbors:**
+  - KNeighborsClassifier
+
+- **Support Vector Machines (SVM):**
+  - SVC
+  - NuSVC
+  - LinearSVC
+
+- **Trees:**
+  - DecisionTreeClassifier
+  - ExtraTreeClassifier
+
+- **Discriminant Analysis:**
+  - LinearDiscriminantAnalysis
+  - QuadraticDiscriminantAnalysis
+
+- **XGBoost:**
+  - XGBClassifier
 
 ## Methodologies and Best Practices
 - **Project Management:** Version control with Git, comprehensive documentation, organized code structure
