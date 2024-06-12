@@ -28,6 +28,26 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 **Why This Project Matters:**
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
+## Results and Insights
+
+The project results include detailed analysis, model performance metrics, and visualizations that provide insights into the predictive power of the models used.
+
+
+![Model results table](Images/ModelMeasurementsPlot.png)
+
+Our top four models (test accuracy) are BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting. 
+
+![Model results plot](Images/ModelMeasurementsTable.png)
+
+Defining avoidable bias as 1.0 - train accuracy.  1.0 is argeuably an unrealistic figure for human level error.  We can justify it given that over 250 submissions reported perfect accuracy scores.
+
+Defining variance as the spreaed between test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between validation error and test error so we are including it in our variance error calculation.
+
+![Model variance indicator](Images/BiasVariancePlot.png)
+
+As a general rule for model performance, we want to work on improving the greater error (bias or variance).  
+
+
 ### 2. Generalized Data Science Framework - Titanic
 **Project Highlights:**
 - **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
