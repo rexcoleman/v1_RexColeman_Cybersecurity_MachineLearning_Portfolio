@@ -1,4 +1,4 @@
-# Rex Coleman Machine Learning + Cybersecurity Portfolio
+# Rex Coleman Machine Learning Cybersecurity Portfolio
 A curated collection of machine learning projects demonstrating practical applications and advanced methodologies.
 
 ## Introduction
@@ -7,11 +7,31 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
 ## About Me
 I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Gerogia Tech, hold an MBA from Melbourn Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
 
-## Technical Skills
-- **Programming Languages:** Python, R, SQL
-- **Tools and Technologies:** TensorFlow, PyTorch, Scikit-Learn, LightGBM
-- **Data Handling and Analysis:** Data preprocessing, feature engineering, exploratory data analysis
-- **Machine Learning and Deep Learning:** Regression, classification, clustering, neural networks
+### Programming Languages
+- **Python**
+- **SQL**
+
+### Tools and Technologies
+- **Machine Learning and Deep Learning Frameworks:** TensorFlow, Scikit-Learn
+- **Data Manipulation and Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Others:** SciPy, itertools, Graphviz, os, sys, IPython, random, time, Dask, tqdm, pickle
+
+### Data Handling and Analysis
+- **Processes:** Data preprocessing, feature engineering, exploratory data analysis
+
+### Machine Learning and Deep Learning
+- **Techniques:** Regression, classification, clustering, neural networks, convolutional neural networks, sequence models, ensembling, stacking
+
+### Models
+- **Trees:** DecisionTreeClassifier, ExtraTreeClassifier
+- **Ensemble Methods:** XGBClassifier, AdaBoost, Bagging, ExtraTrees, GradientBoosting, RandomForest
+- **Gaussian Processes:** GaussianProcessClassifier
+- **Generalized Linear Models (GLM):** LogisticRegressionCV, PassiveAggressiveClassifier, RidgeClassifierCV, SGDClassifier, Perceptron
+- **Naive Bayes:** BernoulliNB, GaussianNB
+- **Nearest Neighbors:** KNeighborsClassifier
+- **Support Vector Machines (SVM):** SVC, NuSVC, LinearSVC
+- **Discriminant Analysis:** LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
 
 ## Methodologies and Best Practices
 - **Project Management:** Version control with Git, comprehensive documentation, organized code structure
@@ -33,17 +53,17 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 The project results include detailed analysis, model performance metrics, and visualizations that provide insights into the predictive power of the models used.
 
 
-![Model results table](Images/ModelMeasurementsPlot.png)
+![Model results table](img/ModelMeasurementsPlot.png)
 
 Our top four models (test accuracy) are BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting. 
 
-![Model results plot](Images/ModelMeasurementsTable.png)
+![Model results plot](img/ModelMeasurementsTable.png)
 
 Defining avoidable bias as 1.0 - train accuracy.  1.0 is argeuably an unrealistic figure for human level error.  We can justify it given that over 250 submissions reported perfect accuracy scores.
 
 Defining variance as the spreaed between test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between validation error and test error so we are including it in our variance error calculation.
 
-![Model variance indicator](Images/BiasVariancePlot.png)
+![Model variance indicator](img/BiasVariancePlot.png)
 
 As a general rule for model performance, we want to work on improving the greater error (bias or variance).  
 
