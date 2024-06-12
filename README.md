@@ -102,7 +102,7 @@ This project reinforces my understanding of fundamental data science concepts an
 **Why This Project Matters:**
 Feature engineering is critical to improving model accuracy and performance. This project showcases my ability to manipulate and transform data to extract valuable features, enhancing the predictive power of models.
 
-![Feature engineering example](img/FeatureEnginering.png)
+![Feature engineering example](img/FeatureEngineering.png)
 
 ### 6. Outliers Deep Dive - Pima Indians
 **Project Highlights:**
