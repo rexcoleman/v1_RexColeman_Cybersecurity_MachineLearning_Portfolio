@@ -50,7 +50,7 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 **Why This Project Matters:**
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
-2. Deep Learning & Art: Neural Style Transfer
+### 2. Deep Learning & Art: Neural Style Transfer
 **Project Highlights:**
 
 - **Creative Application:** Combines the content of one image with the style of another to create unique artistic images.
