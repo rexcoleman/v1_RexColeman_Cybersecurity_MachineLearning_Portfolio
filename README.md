@@ -65,12 +65,13 @@ This project demonstrates my ability to apply natural language processing (NLP) 
 
 ### 3. Deep Learning & Art: Neural Style Transfer
 **Project Highlights:**
-- **Creative Application:** Combines the content of one image with the style of another to create unique artistic images.
-- **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning.
-- **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images.
+
+- **Creative Application:** Combines the content of one image with the style of another to create unique artistic images. In cybersecurity, this technique can be adapted for obfuscation, camouflage detection, and steganography detection.
+- **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning. These models can be leveraged to enhance cybersecurity threat detection and analysis.
+- **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images. Optimization skills are crucial for improving the performance of various cybersecurity models.
 
 **Why This Project Matters:**
-This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. It highlights my proficiency in implementing complex algorithms and optimizing cost functions.
+This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. In the realm of cybersecurity, Neural Style Transfer can be used for advanced obfuscation techniques, phishing detection, and forensic analysis, among other applications. This highlights my proficiency in implementing complex algorithms and optimizing cost functions to solve real-world cybersecurity challenges.
 
 ![surf_art](img/teahupoo_basquiet_1.png)
 
