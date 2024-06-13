@@ -50,31 +50,27 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 **Why This Project Matters:**
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
-### 2. Deep Learning & Art: Neural Style Transfer
+### 2. Emojify!
 **Project Highlights:**
+- **NLP and Sentiment Analysis:** Utilizes word vector representations to build an Emojifier that makes text messages more expressive.
+- **Word Embeddings:** Implements techniques to generalize and associate words with emojis, even if the words do not appear in the training set.
+- **Sequence Models:** Leverages LSTMs to build a sentiment classifier using word embeddings.
 
+**Why This Project Matters:**
+This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications. It showcases my proficiency in using word embeddings to improve the accuracy of sentiment analysis and enhance user experiences.
+
+### 3. Deep Learning & Art: Neural Style Transfer
+**Project Highlights:**
 - **Creative Application:** Combines the content of one image with the style of another to create unique artistic images.
 - **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning.
 - **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images.
 
-Why This Project Matters:
+**Why This Project Matters:**
 This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. It highlights my proficiency in implementing complex algorithms and optimizing cost functions.
 
 ![surf_art](img/teahupoo_basquiet_1.png)
 
-### 3. Image Segmentation with U-Net
-**Project Highlights:**
-- **Advanced Segmentation:** Implements U-Net, a sophisticated convolutional neural network designed for precise image segmentation.
-- **Self-Driving Car Dataset:** Applies semantic image segmentation to images from a self-driving car dataset, labeling each pixel with its corresponding class.
-- **Practical Application:** Demonstrates the importance of pixel-perfect understanding in autonomous driving for safety and navigation.
-
-**Why This Project Matters:**
-This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding.
-
-![image_segmentation_u_net](img/image_segmentation_u_net.png)
-
-
-### 2. Generalized Data Science Framework - Titanic
+### 4. Generalized Data Science Framework - Titanic
 **Project Highlights:**
 - **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
 - **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
@@ -86,21 +82,19 @@ This project outlines a robust framework for approaching data science tasks, emp
 
 The project results include detailed analysis, model performance metrics, and visualizations that provide insights into the predictive power of the models used.
 
-
 ![Model results table](img/ModelMeasurementsPlot.png)
 
-Our top four models (test accuracy) are BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting. 
+Our top four models (test accuracy) are BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting.
 
+Defining avoidable bias as 1.0 - train accuracy. 1.0 is arguably an unrealistic figure for human level error. We can justify it given that over 250 submissions reported perfect accuracy scores.
 
-Defining avoidable bias as 1.0 - train accuracy.  1.0 is argeuably an unrealistic figure for human level error.  We can justify it given that over 250 submissions reported perfect accuracy scores.
-
-Defining variance as the spreaed between test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between validation error and test error so we are including it in our variance error calculation.
+Defining variance as the spread between test error and train error. Typically it is better to use the difference in dev error (validation error) and training error. In the case of our models, there is a wide margin between validation error and test error so we are including it in our variance error calculation.
 
 ![Model variance indicator](img/BiasVariancePlot.png)
 
-As a general rule for model performance, we want to work on improving the greater error (bias or variance).  
+As a general rule for model performance, we want to work on improving the greater error (bias or variance).
 
-### 3. TensorFlow Decision Forest - Titanic
+### 5. TensorFlow Decision Forest - Titanic
 **Project Highlights:**
 - **TensorFlow Expertise:** Applies TensorFlow, a leading deep learning library, to decision forest models, highlighting my versatility with different machine learning frameworks.
 - **Innovative Techniques:** Demonstrates the application of decision forests within TensorFlow, integrating deep learning capabilities with traditional models.
@@ -108,7 +102,7 @@ As a general rule for model performance, we want to work on improving the greate
 **Why This Project Matters:**
 This project illustrates my capability to leverage cutting-edge technologies like TensorFlow to enhance model performance. It underscores my adaptability and continuous learning in utilizing different tools and frameworks to solve complex problems.
 
-### 4. Machine Learning Framework - Pima Indians
+### 6. Machine Learning Framework - Pima Indians
 **Project Highlights:**
 - **Simplified Framework:** Offers a slightly simpler yet complementary framework to the Titanic project, focusing on the Pima Indians dataset.
 - **Model Stacking:** Includes both ensembling and stacking of multiple traditional learning models to boost performance.
@@ -116,7 +110,7 @@ This project illustrates my capability to leverage cutting-edge technologies lik
 **Why This Project Matters:**
 This project reinforces my understanding of fundamental data science concepts and techniques. It highlights my ability to apply these principles to different datasets, ensuring versatility and breadth in my analytical skills.
 
-### 5. Feature Engineering Deep Dive - Pima Indians
+### 7. Feature Engineering Deep Dive - Pima Indians
 **Project Highlights:**
 - **In-Depth Analysis:** Provides a comprehensive exploration of feature engineering techniques and their impact on model performance.
 - **Practical Applications:** Demonstrates the practical value of feature engineering in achieving superior results.
@@ -126,7 +120,7 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 
 ![Feature engineering example](img/FeatureEngineering.png)
 
-### 6. Outliers Deep Dive - Pima Indians
+### 8. Outliers Deep Dive - Pima Indians
 **Project Highlights:**
 - **Outlier Analysis:** Focuses on the detection and remediation of outliers, highlighting their impact on modeling.
 - **Methodological Approach:** Utilizes various techniques to identify and address outliers, ensuring data integrity and model robustness.
@@ -134,7 +128,7 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 **Why This Project Matters:**
 Understanding and handling outliers is essential for building reliable models. This project demonstrates my expertise in maintaining data quality and addressing anomalies that could skew results.
 
-### 7. K Nearest Neighbors - Pima Indians
+### 9. K Nearest Neighbors - Pima Indians
 **Project Highlights:**
 - **Algorithm Focus:** Implements the K Nearest Neighbors algorithm, emphasizing its application and effectiveness on the Pima Indians dataset.
 - **Model Evaluation:** Provides a thorough evaluation of the model's performance, highlighting strengths and limitations.
@@ -142,21 +136,17 @@ Understanding and handling outliers is essential for building reliable models. T
 **Why This Project Matters:**
 This project adds depth to my portfolio by showcasing my proficiency with different algorithms. It demonstrates my ability to select and implement appropriate models based on the dataset and problem at hand.
 
+### 10. Image Segmentation with U-Net
+**Project Highlights:**
+- **Advanced Segmentation:** Implements U-Net, a sophisticated convolutional neural network designed for precise image segmentation.
+- **Self-Driving Car Dataset:** Applies semantic image segmentation to images from a self-driving car dataset, labeling each pixel with its corresponding class.
+- **Practical Application:** Demonstrates the importance of pixel-perfect understanding in autonomous driving for safety and navigation.
+
+**Why This Project Matters:**
+This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding.
+
 ## Achievements and Recognitions
 - **Certifications:** [List relevant certifications]
 - **Competitions and Hackathons:** [Mention notable achievements]
-- **Publications and Contributions:** [Include any publications, blog posts, or contributions]
+- **Public
 
-## Future Goals
-- **Career Aspirations:** Outline my career goals and aspirations in data science and cybersecurity.
-- **Learning and Development:** Mention areas I am currently focusing on for further skill development.
-
-## Contact Information
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Repository]
-- **Personal Website:** [Your Personal Website]
-- **Email:** [Your Email Address]
-
----
-
-This structure ensures that your portfolio is comprehensive, well-organized, and highlights your strengths and achievements effectively. Each section is designed to provide a clear understanding of your skills, experience, and professional value proposition.
