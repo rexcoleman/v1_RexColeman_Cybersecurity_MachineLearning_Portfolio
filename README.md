@@ -50,7 +50,17 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 **Why This Project Matters:**
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
+2. Deep Learning & Art: Neural Style Transfer
+**Project Highlights:**
 
+- **Creative Application:** Combines the content of one image with the style of another to create unique artistic images.
+- **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning.
+- **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images.
+
+Why This Project Matters:
+This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. It highlights my proficiency in implementing complex algorithms and optimizing cost functions.
+
+![surf_art](img/teahupoo_basquiet_1.png)
 
 
 ### 2. Generalized Data Science Framework - Titanic
