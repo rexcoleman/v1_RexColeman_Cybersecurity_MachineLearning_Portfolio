@@ -59,7 +59,6 @@ The project results include detailed analysis, model performance metrics, and vi
 
 Our top four models (test accuracy) are BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting. 
 
-![Model results plot](img/ModelMeasurementsTable.png)
 
 Defining avoidable bias as 1.0 - train accuracy.  1.0 is argeuably an unrealistic figure for human level error.  We can justify it given that over 250 submissions reported perfect accuracy scores.
 
