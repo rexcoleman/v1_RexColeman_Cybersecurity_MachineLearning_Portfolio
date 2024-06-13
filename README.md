@@ -62,6 +62,17 @@ This project blends creativity with deep learning, demonstrating my ability to a
 
 ![surf_art](img/teahupoo_basquiet_1.png)
 
+### 3. Image Segmentation with U-Net
+**Project Highlights:**
+- **Advanced Segmentation:** Implements U-Net, a sophisticated convolutional neural network designed for precise image segmentation.
+- **Self-Driving Car Dataset:** Applies semantic image segmentation to images from a self-driving car dataset, labeling each pixel with its corresponding class.
+- **Practical Application:** Demonstrates the importance of pixel-perfect understanding in autonomous driving for safety and navigation.
+
+**Why This Project Matters:**
+This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding.
+
+![image_segmentation_u_net](img/image_segmentation_u_net.png)
+
 
 ### 2. Generalized Data Science Framework - Titanic
 **Project Highlights:**
