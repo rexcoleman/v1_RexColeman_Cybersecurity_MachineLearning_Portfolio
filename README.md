@@ -59,6 +59,8 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 **Why This Project Matters:**
 This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications. It showcases my proficiency in using word embeddings to improve the accuracy of sentiment analysis and enhance user experiences.
 
+![Cyber_ML_Emoji](img/GloVe_Emoji.png)
+
 ### 3. Deep Learning & Art: Neural Style Transfer
 **Project Highlights:**
 - **Creative Application:** Combines the content of one image with the style of another to create unique artistic images.
