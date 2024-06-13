@@ -145,6 +145,8 @@ This project adds depth to my portfolio by showcasing my proficiency with differ
 **Why This Project Matters:**
 This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding.
 
+![image_segmentation_u_net](img/image_segmentation_u_net.png)
+
 ## Achievements and Recognitions
 - **Certifications:** [List relevant certifications]
 - **Competitions and Hackathons:** [Mention notable achievements]
