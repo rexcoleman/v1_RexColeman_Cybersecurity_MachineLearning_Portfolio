@@ -103,6 +103,10 @@ This project demonstrates my deep understanding of word embeddings and their app
 **Why This Project Matters:**
 This project outlines a robust framework for approaching data science tasks, emphasizing the importance of a systematic and methodical approach. It showcases my ability to design and implement a diverse set of models to achieve optimal results.
 
+![Surveillance privacy bias](img/surveillance_privacy_bias.png)
+
+![name_bias_neutralization](img/name_bias_neutralization.png)
+
 ## Results and Insights
 
 The project results include detailed analysis, model performance metrics, and visualizations that provide insights into the predictive power of the models used.
