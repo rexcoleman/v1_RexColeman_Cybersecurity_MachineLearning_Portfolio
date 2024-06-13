@@ -83,7 +83,16 @@ This project underscores the critical role of semantic image segmentation in adv
 
 ![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
-### 5. Generalized Data Science Framework - Titanic
+### 5. Operations on Word Vectors
+**Project Highlights:**
+- **Word Embeddings:** Loads, measures similarity, and modifies pre-trained word embeddings to capture relationships between words.
+- **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
+- **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
+
+**Why This Project Matters:**
+This project demonstrates my deep understanding of word embeddings and their applications in natural language processing. It highlights my ability to address and mitigate biases in machine learning models, promoting fairness and accuracy.
+
+### 6. Generalized Data Science Framework - Titanic
 **Project Highlights:**
 - **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
 - **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
@@ -107,7 +116,7 @@ Defining variance as the spread between test error and train error. Typically it
 
 As a general rule for model performance, we want to work on improving the greater error (bias or variance).
 
-### 6. TensorFlow Decision Forest - Titanic
+### 7. TensorFlow Decision Forest - Titanic
 **Project Highlights:**
 - **TensorFlow Expertise:** Applies TensorFlow, a leading deep learning library, to decision forest models, highlighting my versatility with different machine learning frameworks.
 - **Innovative Techniques:** Demonstrates the application of decision forests within TensorFlow, integrating deep learning capabilities with traditional models.
@@ -115,7 +124,7 @@ As a general rule for model performance, we want to work on improving the greate
 **Why This Project Matters:**
 This project illustrates my capability to leverage cutting-edge technologies like TensorFlow to enhance model performance. It underscores my adaptability and continuous learning in utilizing different tools and frameworks to solve complex problems.
 
-### 7. Machine Learning Framework - Pima Indians
+### 8. Machine Learning Framework - Pima Indians
 **Project Highlights:**
 - **Simplified Framework:** Offers a slightly simpler yet complementary framework to the Titanic project, focusing on the Pima Indians dataset.
 - **Model Stacking:** Includes both ensembling and stacking of multiple traditional learning models to boost performance.
@@ -123,7 +132,7 @@ This project illustrates my capability to leverage cutting-edge technologies lik
 **Why This Project Matters:**
 This project reinforces my understanding of fundamental data science concepts and techniques. It highlights my ability to apply these principles to different datasets, ensuring versatility and breadth in my analytical skills.
 
-### 8. Feature Engineering Deep Dive - Pima Indians
+### 9. Feature Engineering Deep Dive - Pima Indians
 **Project Highlights:**
 - **In-Depth Analysis:** Provides a comprehensive exploration of feature engineering techniques and their impact on model performance.
 - **Practical Applications:** Demonstrates the practical value of feature engineering in achieving superior results.
@@ -133,7 +142,7 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 
 ![Feature engineering example](img/FeatureEngineering.png)
 
-### 9. Outliers Deep Dive - Pima Indians
+### 10. Outliers Deep Dive - Pima Indians
 **Project Highlights:**
 - **Outlier Analysis:** Focuses on the detection and remediation of outliers, highlighting their impact on modeling.
 - **Methodological Approach:** Utilizes various techniques to identify and address outliers, ensuring data integrity and model robustness.
@@ -141,7 +150,7 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 **Why This Project Matters:**
 Understanding and handling outliers is essential for building reliable models. This project demonstrates my expertise in maintaining data quality and addressing anomalies that could skew results.
 
-### 10. K Nearest Neighbors - Pima Indians
+### 11. K Nearest Neighbors - Pima Indians
 **Project Highlights:**
 - **Algorithm Focus:** Implements the K Nearest Neighbors algorithm, emphasizing its application and effectiveness on the Pima Indians dataset.
 - **Model Evaluation:** Provides a thorough evaluation of the model's performance, highlighting strengths and limitations.
