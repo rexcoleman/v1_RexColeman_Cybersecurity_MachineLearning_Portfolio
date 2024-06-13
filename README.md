@@ -52,12 +52,14 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 
 ### 2. Emojify!
 **Project Highlights:**
-- **NLP and Sentiment Analysis:** Utilizes word vector representations to build an Emojifier that makes text messages more expressive.
-- **Word Embeddings:** Implements techniques to generalize and associate words with emojis, even if the words do not appear in the training set.
-- **Sequence Models:** Leverages LSTMs to build a sentiment classifier using word embeddings.
+
+- **NLP and Sentiment Analysis:** Utilizes word vector representations to build an Emojifier that makes text messages more expressive. This technique can be adapted to detect and analyze sentiment in cybersecurity communications.
+- **Word Embeddings:** Implements techniques to generalize and associate words with emojis, even if the words do not appear in the training set. These embeddings can be used to identify patterns and trends in cybersecurity-related texts.
+- **Sequence Models:** Leverages LSTMs to build a sentiment classifier using word embeddings, which can be crucial in understanding the context and emotional tone of communications.
 
 **Why This Project Matters:**
-This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications. It showcases my proficiency in using word embeddings to improve the accuracy of sentiment analysis and enhance user experiences.
+This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications in cybersecurity. Sentiment analysis is pivotal in cybersecurity for detecting potential threats, understanding employee sentiments, and monitoring public perception. By showcasing my proficiency in using word embeddings and sentiment analysis, this project highlights how these techniques can enhance threat detection, incident response, and overall cybersecurity strategies.
+
 
 ![Cyber_ML_Emoji](img/GloVe_Emoji.png)
 
