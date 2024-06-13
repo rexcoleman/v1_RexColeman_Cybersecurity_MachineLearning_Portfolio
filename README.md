@@ -89,6 +89,9 @@ This project underscores the critical role of semantic image segmentation in adv
 - **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
 - **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
 
+![debias_cybersecurity_terms](img/debias_vulnerability_exploit.png)
+
+
 **Why This Project Matters:**
 This project demonstrates my deep understanding of word embeddings and their applications in natural language processing. It highlights my ability to address and mitigate biases in machine learning models, promoting fairness and accuracy.
 
