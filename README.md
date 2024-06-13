@@ -50,6 +50,17 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 **Why This Project Matters:**
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
+
+
+
+### 2. Generalized Data Science Framework - Titanic
+**Project Highlights:**
+- **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
+- **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
+
+**Why This Project Matters:**
+This project outlines a robust framework for approaching data science tasks, emphasizing the importance of a systematic and methodical approach. It showcases my ability to design and implement a diverse set of models to achieve optimal results.
+
 ## Results and Insights
 
 The project results include detailed analysis, model performance metrics, and visualizations that provide insights into the predictive power of the models used.
@@ -67,15 +78,6 @@ Defining variance as the spreaed between test error and train error.  Typically 
 ![Model variance indicator](img/BiasVariancePlot.png)
 
 As a general rule for model performance, we want to work on improving the greater error (bias or variance).  
-
-
-### 2. Generalized Data Science Framework - Titanic
-**Project Highlights:**
-- **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
-- **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
-
-**Why This Project Matters:**
-This project outlines a robust framework for approaching data science tasks, emphasizing the importance of a systematic and methodical approach. It showcases my ability to design and implement a diverse set of models to achieve optimal results.
 
 ### 3. TensorFlow Decision Forest - Titanic
 **Project Highlights:**
