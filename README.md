@@ -61,7 +61,7 @@ This project demonstrates my ability to apply natural language processing (NLP) 
 - **Word Embeddings:** Implements techniques to generalize and associate words with emojis, even if the words do not appear in the training set. These embeddings can be used to identify patterns and trends in cybersecurity-related texts.
 - **Sequence Models:** Leverages LSTMs to build a sentiment classifier using word embeddings, which can be crucial in understanding the context and emotional tone of communications.
 
-![Cyber_ML_Emoji](img/GloVe_Emoji.png)
+![GloVe_Emoji](img/think_like_a_hacker.png)
 
 ### 3. Deep Learning & Art: Neural Style Transfer
 **Why This Project Matters:**
