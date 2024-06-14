@@ -4,6 +4,36 @@ A curated collection of machine learning projects demonstrating practical applic
 ## Introduction
 Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data scientist with extensive experience in cybersecurity, I aim to showcase my comprehensive skill set through a series of projects that blend advanced data science methodologies with robust cybersecurity principles. This portfolio highlights my strategy of intentionally building upon leading projects from Kaggle to accelerate my learning curve and develop a top 1% data science skill set. Each project is carefully selected and meticulously crafted to demonstrate my proficiency and dedication to the field.
 
+## Table of Contents
+1. [About Me](#about-me)
+   1.1. [Programming Languages](#programming-languages)
+   1.2. [Tools and Technologies](#tools-and-technologies)
+   1.3. [Data Handling and Analysis](#data-handling-and-analysis)
+   1.4. [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+   1.5. [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
+   1.6. [Models](#models)
+   1.7. [Methodologies and Best Practices](#methodologies-and-best-practices)
+2. [Projects Overview](#projects-overview)
+   2.1. [Cybersecurity Data](#cybersecurity-data)
+      2.1.1. [Microsoft Malware Prediction](#microsoft-malware-prediction)
+   2.2. [Deep Learning](#deep-learning)
+      2.2.1. [Neutralizing Surveillance / Privacy Bias](#neutralizing-surveillance--privacy-bias)
+      2.2.2. [Deep Learning & Art: Neural Style Transfer](#deep-learning--art-neural-style-transfer)
+      2.2.3. [Image Segmentation with U-Net](#image-segmentation-with-u-net)
+      2.2.4. [Emojify!](#emojify)
+   2.3. [Data Science Frameworks](#data-science-frameworks)
+      2.3.1. [Generalized Data Science Framework - Titanic](#generalized-data-science-framework---titanic)
+      2.3.2. [Machine Learning Framework - Pima Indians](#machine-learning-framework---pima-indians)
+   2.4. [Data Preparation](#data-preparation)
+      2.4.1. [Feature Engineering Deep Dive - Pima Indians](#feature-engineering-deep-dive---pima-indians)
+      2.4.2. [Outliers Deep Dive - Pima Indians](#outliers-deep-dive---pima-indians)
+   2.5. [Model Specific](#model-specific)
+      2.5.1. [TensorFlow Decision Forest - Titanic](#tensorflow-decision-forest---titanic)
+      2.5.2. [K Nearest Neighbors - Pima Indians](#k-nearest-neighbors---pima-indians)
+3. [Achievements and Recognitions](#achievements-and-recognitions)
+4. [Future Goals](#future-goals)
+5. [Contact Information](#contact-information)
+
 ## About Me
 I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Georgia Tech, hold an MBA from Melbourne Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
 
@@ -28,8 +58,8 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Probability & Statistics:** Statistical Analysis, Probability, Statistical Hypothesis Testing
 
 ### Machine Learning and Deep Learning
-- **Techniques:** Regression, classification, clustering, neural networks,  ensembling, stacking, Logistic Regression
-- **Sequence Models:** Transformers, Attention Models, Gated Recurrent Unit (GRU), Recurrent Neural Network, Natural Language Processing, Long Short Term Memory (LSTM) 
+- **Techniques:** Regression, classification, clustering, neural networks, ensembling, stacking, Logistic Regression
+- **Sequence Models:** Transformers, Attention Models, Gated Recurrent Unit (GRU), Recurrent Neural Network, Natural Language Processing, Long Short Term Memory (LSTM)
 - **Convolutional Neural Networks:** Facial Recognition System, Object Detection and Segmentation
 - **Unsupervised Learning:** Anonoly Detection, Reinforcement Learning, Collaborative Filtering, Recommender Systems
 - **Structuring Machine Learning Projects:** Neural Network Architecture, Decision-Making, Inductive Transfer, Multi-Task Learning, Hyperparameter Tuning, Regularization to Avoid Overfitting
@@ -44,31 +74,12 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Support Vector Machines (SVM):** SVC, NuSVC, LinearSVC
 - **Discriminant Analysis:** LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
 
-### Methodologies and Best Practices
+## Methodologies and Best Practices
 - **Project Management:** Version control with Git, comprehensive documentation, organized code structure
 - **Data Science Workflow:** Data collection, preprocessing, modeling, evaluation, and deployment
 - **Quality Assurance:** Cross-validation, hyperparameter tuning, rigorous model evaluation
 
-## Table of Contents
-1. [Cybersecurity Data](#cybersecurity-data)
-   - 1.1: [Microsoft Malware Prediction](#microsoft-malware-prediction)
-2. [Deep Learning](#deep-learning)
-   - 2.1: [Neutralizing Surveillance / Privacy Bias](#neutralizing-surveillance-privacy-bias)
-   - 2.2: [Deep Learning & Art: Neural Style Transfer](#deep-learning-art-neural-style-transfer)
-   - 2.3: [Image Segmentation with U-Net](#image-segmentation-with-u-net)
-   - 2.4: [Emojify!](#emojify)
-3. [Data Science Frameworks](#data-science-frameworks)
-   - 3.1: [Generalized Data Science Framework - Titanic](#generalized-data-science-framework-titanic)
-   - 3.2: [Machine Learning Framework - Pima Indians](#machine-learning-framework-pima-indians)
-4. [Data Preparation](#data-preparation)
-   - 4.1: [Feature Engineering Deep Dive - Pima Indians](#feature-engineering-deep-dive-pima-indians)
-   - 4.2: [Outliers Deep Dive - Pima Indians](#outliers-deep-dive-pima-indians)
-5. [Model Specific](#model-specific)
-   - 5.1: [TensorFlow Decision Forest - Titanic](#tensorflow-decision-forest-titanic)
-   - 5.2: [K Nearest Neighbors - Pima Indians](#k-nearest-neighbors-pima-indians)
-
 ## Projects Overview
-
 ### 1. Cybersecurity Data
 #### 1.1: Microsoft Malware Prediction
 **Project Highlights:**
@@ -90,13 +101,16 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
 
 ![Surveillance privacy bias](img/surveillance_privacy_bias.png)
+
 ![name_bias_neutralization](img/name_bias_neutralization.png)
 
 #### 2.2: Deep Learning & Art: Neural Style Transfer
 **Why This Project Matters:**
+
 This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. In the realm of cybersecurity, Neural Style Transfer can be used for advanced obfuscation techniques, phishing detection, and forensic analysis, among other applications. This highlights my proficiency in implementing complex algorithms and optimizing cost functions to solve real-world cybersecurity challenges.
 
 **Project Highlights:**
+
 - **Creative Application:** Combines the content of one image with the style of another to create unique artistic images. In cybersecurity, this technique can be adapted for obfuscation, camouflage detection, and steganography detection.
 - **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning. These models can be leveraged to enhance cybersecurity threat detection and analysis.
 - **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images. Optimization skills are crucial for improving the performance of various cybersecurity models.
@@ -105,9 +119,11 @@ This project blends creativity with deep learning, demonstrating my ability to a
 
 #### 2.3: Image Segmentation with U-Net
 **Why This Project Matters:**
-This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information.
+
+This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information
 
 **Project Highlights:**
+
 - **Advanced Segmentation:** Implements U-Net, a sophisticated convolutional neural network designed for precise image segmentation. In cybersecurity, U-Net can be adapted for intrusion detection, anomaly detection in network traffic, and identifying malicious content.
 - **Self-Driving Car Dataset:** Applies semantic image segmentation to images from a self-driving car dataset, labeling each pixel with its corresponding class. The techniques can be extended to analyze and secure surveillance footage and enhance digital forensics.
 - **Practical Application:** Demonstrates the importance of pixel-perfect understanding in autonomous driving for safety and navigation. Similarly, in cybersecurity, precise image segmentation is crucial for accurate threat detection and response.
@@ -116,10 +132,11 @@ This project underscores the critical role of semantic image segmentation in adv
 
 #### 2.4: Emojify!
 **Why This Project Matters:**
+
 This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications in cybersecurity. Sentiment analysis is pivotal in cybersecurity for detecting potential threats, understanding employee sentiments, and monitoring public perception. By showcasing my proficiency in using word embeddings and sentiment analysis, this project highlights how these techniques can enhance threat detection, incident response, and overall cybersecurity strategies.
 
-**Project Highlights:
 **Project Highlights:**
+
 - **NLP and Sentiment Analysis:** Utilizes word vector representations to build an Emojifier that makes text messages more expressive. This technique can be adapted to detect and analyze sentiment in cybersecurity communications.
 - **Word Embeddings:** Implements techniques to generalize and associate words with emojis, even if the words do not appear in the training set. These embeddings can be used to identify patterns and trends in cybersecurity-related texts.
 - **Sequence Models:** Leverages LSTMs to build a sentiment classifier using word embeddings, which can be crucial in understanding the context and emotional tone of communications.
