@@ -22,17 +22,17 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 ### Data Handling and Analysis
 - **Processes:** Data Mining, Data preprocessing, feature engineering, exploratory data analysis
 
-### Math
-- **Linear Algebra:** Eigenvalues And Eigenvectors
-- **Multivariate Calculus:** Principal Component Analysis (PCA)
+### Mathematics for Machine Learning
+- **Linear Algebra:** Eigenvalues And Eigenvectors, Basis, Transformation Matrix
+- **Multivariate Calculus:** Principal Component Analysis (PCA), Dimensionality Reduction, Multivariable Calculus, Vector Calculus, Linear Regression, Gradient Descent, Backpropagation, Mathematical Optimization
+- **Probability & Statistics** Statistical Analysis, Probability, Statistical Hypothesis Testing
 
 ### Machine Learning and Deep Learning
 - **Techniques:** Regression, classification, clustering, neural networks,  ensembling, stacking, Logistic Regression
 - **Sequence Models:** Transformers, Attention Models, Gated Recurrent Unit (GRU), Recurrent Neural Network, Natural Language Processing, Long Short Term Memory (LSTM) 
 - **Convolutional Neural Networks:** Facial Recognition System, Object Detection and Segmentation
 - **Unsupervised Learning:** Anonoly Detection, Reinforcement Learning, Collaborative Filtering, Recommender Systems
-- **Structuring Machine Learning Projects:** Neural Network Architecture, Decision-Making, Inductive Transfer, Multi-Task Learning, Hyperparameter Tuning, Regularization to Avoid Overfitting, Gradient Descent, Backpropagation, Mathematical Optimization
-- **Math:** Linear Algeg
+- **Structuring Machine Learning Projects:** Neural Network Architecture, Decision-Making, Inductive Transfer, Multi-Task Learning, Hyperparameter Tuning, Regularization to Avoid Overfitting
 
 ### Models
 - **Trees:** DecisionTreeClassifier, ExtraTreeClassifier
