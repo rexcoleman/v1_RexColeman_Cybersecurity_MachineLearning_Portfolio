@@ -61,7 +61,7 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Techniques:** Regression, classification, clustering, neural networks, ensembling, stacking, Logistic Regression
 - **Sequence Models:** Transformers, Attention Models, Gated Recurrent Unit (GRU), Recurrent Neural Network, Natural Language Processing, Long Short Term Memory (LSTM)
 - **Convolutional Neural Networks:** Facial Recognition System, Object Detection and Segmentation
-- **Unsupervised Learning:** Anonoly Detection, Reinforcement Learning, Collaborative Filtering, Recommender Systems
+- **Unsupervised Learning:** Anomaly Detection, Reinforcement Learning, Collaborative Filtering, Recommender Systems
 - **Structuring Machine Learning Projects:** Neural Network Architecture, Decision-Making, Inductive Transfer, Multi-Task Learning, Hyperparameter Tuning, Regularization to Avoid Overfitting
 
 ### Models
@@ -120,7 +120,7 @@ This project blends creativity with deep learning, demonstrating my ability to a
 #### 2.3: Image Segmentation with U-Net
 **Why This Project Matters:**
 
-This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information
+This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information.
 
 **Project Highlights:**
 
@@ -231,3 +231,4 @@ This project adds depth to my portfolio by showcasing my proficiency with differ
 - **Email:** [Your Email Address]
 
 ---
+
