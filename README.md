@@ -35,6 +35,37 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
 5. [Contact Information](#contact-information)
 
 ## About Me
+### Programming Languages
+### Tools and Technologies
+### Data Handling and Analysis
+### Mathematics for Machine Learning
+### Machine Learning and Deep Learning
+### Models
+### Methodologies and Best Practices
+
+## Projects Overview
+### Cybersecurity Data
+#### Microsoft Malware Prediction
+### Deep Learning
+#### Neutralizing Surveillance / Privacy Bias
+#### Deep Learning & Art: Neural Style Transfer
+#### Image Segmentation with U-Net
+#### Emojify!
+### Data Science Frameworks
+#### Generalized Data Science Framework - Titanic
+#### Machine Learning Framework - Pima Indians
+### Data Preparation
+#### Feature Engineering Deep Dive - Pima Indians
+#### Outliers Deep Dive - Pima Indians
+### Model Specific
+#### TensorFlow Decision Forest - Titanic
+#### K Nearest Neighbors - Pima Indians
+
+## Achievements and Recognitions
+## Future Goals
+## Contact Information
+
+## About Me
 I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Georgia Tech, hold an MBA from Melbourne Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
 
 ### Programming Languages
