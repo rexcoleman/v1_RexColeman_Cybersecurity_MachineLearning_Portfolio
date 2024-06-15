@@ -239,7 +239,7 @@ This program will equip me with the knowledge and skills to contribute effective
 
 
 ## 5) Contact Information
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/rexcoleman/)]
+- **LinkedIn:** [[Rex Coleman](https://www.linkedin.com/in/rexcoleman/)]
 - **GitHub:** [Your GitHub Repository]
 - **Personal Website:** [Your Personal Website]
 - **Email:** [Your Email Address]
