@@ -96,14 +96,42 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 **Why This Project Matters:**
 This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
 
+![Surveillance privacy bias](img/surveillance_privacy_bias.png)
+
+![name_bias_neutralization](img/name_bias_neutralization.png)
+
 **Project Highlights:**
 - **Word Embeddings:** Loads, measures similarity, and modifies pre-trained word embeddings to capture relationships between words.
 - **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
 - **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
 
-
 #### Deep Learning & Art: Neural Style Transfer
+**Why This Project Matters:**
+
+This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. In the realm of cybersecurity, Neural Style Transfer can be used for advanced obfuscation techniques, phishing detection, and forensic analysis, among other applications. This highlights my proficiency in implementing complex algorithms and optimizing cost functions to solve real-world cybersecurity challenges.
+
+**Project Highlights:**
+
+- **Creative Application:** Combines the content of one image with the style of another to create unique artistic images. In cybersecurity, this technique can be adapted for obfuscation, camouflage detection, and steganography detection.
+- **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning. These models can be leveraged to enhance cybersecurity threat detection and analysis.
+- **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images. Optimization skills are crucial for improving the performance of various cybersecurity models.
+
+![surf_art](img/teahupoo_basquiet_1.png)
+
 #### Image Segmentation with U-Net
+**Why This Project Matters:**
+
+This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information.
+
+**Project Highlights:**
+
+- **Advanced Segmentation:** Implements U-Net, a sophisticated convolutional neural network designed for precise image segmentation. In cybersecurity, U-Net can be adapted for intrusion detection, anomaly detection in network traffic, and identifying malicious content.
+- **Self-Driving Car Dataset:** Applies semantic image segmentation to images from a self-driving car dataset, labeling each pixel with its corresponding class. The techniques can be extended to analyze and secure surveillance footage and enhance digital forensics.
+- **Practical Application:** Demonstrates the importance of pixel-perfect understanding in autonomous driving for safety and navigation. Similarly, in cybersecurity, precise image segmentation is crucial for accurate threat detection and response.
+
+![image_segmentation_u_net](img/image_segmentation_u_net.png)
+
+
 #### Emojify!
 ### Data Science Frameworks
 #### Generalized Data Science Framework - Titanic
@@ -131,35 +159,14 @@ This project demonstrates my understanding of word embeddings and their applicat
 #### 2.1: Neutralizing Surveillance / Privacy Bias
 
 
-![Surveillance privacy bias](img/surveillance_privacy_bias.png)
-
-![name_bias_neutralization](img/name_bias_neutralization.png)
 
 #### 2.2: Deep Learning & Art: Neural Style Transfer
-**Why This Project Matters:**
 
-This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. In the realm of cybersecurity, Neural Style Transfer can be used for advanced obfuscation techniques, phishing detection, and forensic analysis, among other applications. This highlights my proficiency in implementing complex algorithms and optimizing cost functions to solve real-world cybersecurity challenges.
 
-**Project Highlights:**
 
-- **Creative Application:** Combines the content of one image with the style of another to create unique artistic images. In cybersecurity, this technique can be adapted for obfuscation, camouflage detection, and steganography detection.
-- **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning. These models can be leveraged to enhance cybersecurity threat detection and analysis.
-- **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images. Optimization skills are crucial for improving the performance of various cybersecurity models.
-
-![surf_art](img/teahupoo_basquiet_1.png)
 
 #### 2.3: Image Segmentation with U-Net
-**Why This Project Matters:**
 
-This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information.
-
-**Project Highlights:**
-
-- **Advanced Segmentation:** Implements U-Net, a sophisticated convolutional neural network designed for precise image segmentation. In cybersecurity, U-Net can be adapted for intrusion detection, anomaly detection in network traffic, and identifying malicious content.
-- **Self-Driving Car Dataset:** Applies semantic image segmentation to images from a self-driving car dataset, labeling each pixel with its corresponding class. The techniques can be extended to analyze and secure surveillance footage and enhance digital forensics.
-- **Practical Application:** Demonstrates the importance of pixel-perfect understanding in autonomous driving for safety and navigation. Similarly, in cybersecurity, precise image segmentation is crucial for accurate threat detection and response.
-
-![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
 #### 2.4: Emojify!
 **Why This Project Matters:**
