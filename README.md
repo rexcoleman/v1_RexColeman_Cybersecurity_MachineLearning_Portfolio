@@ -79,10 +79,19 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Data Science Workflow:** Data collection, preprocessing, modeling, evaluation, and deployment
 - **Quality Assurance:** Cross-validation, hyperparameter tuning, rigorous model evaluation
 
-
 ## Projects Overview
 ### Cybersecurity Data
 #### Microsoft Malware Prediction
+**Why This Project Matters:**
+This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
+**Project Highlights:**
+- **Flagship Project:** This project represents the intersection of cybersecurity and data science, making it a cornerstone of my portfolio.
+- **Production-Ready Design:** The project is cleanly organized and designed for a production environment, handling large and complex datasets effectively.
+- **Advanced Techniques:** Utilizes LightGBM, a state-of-the-art gradient boosting framework that enhances model performance and efficiency.
+
+
+
+
 ### Deep Learning
 #### Neutralizing Surveillance / Privacy Bias
 #### Deep Learning & Art: Neural Style Transfer
@@ -108,13 +117,7 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 ## Projects Overview
 ### 1. Cybersecurity Data
 #### 1.1: Microsoft Malware Prediction
-**Project Highlights:**
-- **Flagship Project:** This project represents the intersection of cybersecurity and data science, making it a cornerstone of my portfolio.
-- **Production-Ready Design:** The project is cleanly organized and designed for a production environment, handling large and complex datasets effectively.
-- **Advanced Techniques:** Utilizes LightGBM, a state-of-the-art gradient boosting framework that enhances model performance and efficiency.
 
-**Why This Project Matters:**
-This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
 ### 2. Deep Learning
 #### 2.1: Neutralizing Surveillance / Privacy Bias
