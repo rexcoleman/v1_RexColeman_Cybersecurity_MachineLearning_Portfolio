@@ -31,7 +31,7 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
      - [2.5.1 TensorFlow Decision Forest - Titanic](#251-tensorflow-decision-forest---titanic)
      - [2.5.2 K Nearest Neighbors - Pima Indians](#252-k-nearest-neighbors---pima-indians)
 3. [Achievements and Recognitions](#3-achievements-and-recognitions)
-4. [Future Goals](#4-future-goals)
+4. [Future Goals](#4-learning-and-development)
 5. [Contact Information](#5-contact-information)
 
 ## 1) About Me
@@ -226,9 +226,17 @@ This project adds depth to my portfolio by showcasing my proficiency with differ
 - **Competitions and Hackathons:** [Mention notable achievements]
 - **Publications and Contributions:** [Include any publications, blog posts, or contributions]
 
-## 4) Future Goals
-- **Career Aspirations:** Outline my career goals and aspirations in data science and cybersecurity.
-- **Learning and Development:** Mention areas I am currently focusing on for further skill development.
+## 4) Learning and Development
+
+I am committed to continuous growth in data science and cybersecurity through ongoing online courses in machine learning and data science. Additionally, I have been accepted into Georgia Tech’s Online Master of Science in Analytics (OMS Analytics) program, starting [August, 2024].
+
+### Georgia Tech’s OMS Analytics Program Highlights:
+- **Top-5 Ranking:** Nationally recognized for data science and analytics education.
+- **Interdisciplinary Curriculum:** Integrates expertise from Georgia Tech’s College of Computing, College of Engineering, and Scheller College of Business.
+- **Flexibility and Relevance:** 100% online format tailored for professionals, focusing on advanced skills in machine learning, statistical modeling, and business analytics.
+
+This program will equip me with the knowledge and skills to contribute effectively to cybersecurity challenges, leveraging cutting-edge analytics to enhance threat detection and data security practices.
+
 
 ## 5) Contact Information
 - **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/rexcoleman/)]
