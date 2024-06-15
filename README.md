@@ -231,7 +231,7 @@ This project adds depth to my portfolio by showcasing my proficiency with differ
 - **Learning and Development:** Mention areas I am currently focusing on for further skill development.
 
 ## 5) Contact Information
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/rexcoleman/)]
 - **GitHub:** [Your GitHub Repository]
 - **Personal Website:** [Your Personal Website]
 - **Email:** [Your Email Address]
