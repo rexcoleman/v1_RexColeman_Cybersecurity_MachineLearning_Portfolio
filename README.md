@@ -91,11 +91,17 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 - **Production-Ready Design:** The project is cleanly organized and designed for a production environment, handling large and complex datasets effectively.
 - **Advanced Techniques:** Utilizes LightGBM, a state-of-the-art gradient boosting framework that enhances model performance and efficiency.
 
-
-
-
 ### Deep Learning
 #### Neutralizing Surveillance / Privacy Bias
+**Why This Project Matters:**
+This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
+
+**Project Highlights:**
+- **Word Embeddings:** Loads, measures similarity, and modifies pre-trained word embeddings to capture relationships between words.
+- **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
+- **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
+
+
 #### Deep Learning & Art: Neural Style Transfer
 #### Image Segmentation with U-Net
 #### Emojify!
@@ -123,13 +129,7 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 
 ### 2. Deep Learning
 #### 2.1: Neutralizing Surveillance / Privacy Bias
-**Project Highlights:**
-- **Word Embeddings:** Loads, measures similarity, and modifies pre-trained word embeddings to capture relationships between words.
-- **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
-- **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
 
-**Why This Project Matters:**
-This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
 
 ![Surveillance privacy bias](img/surveillance_privacy_bias.png)
 
