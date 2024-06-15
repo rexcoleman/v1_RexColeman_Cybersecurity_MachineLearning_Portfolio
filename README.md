@@ -64,9 +64,21 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Unsupervised Learning:** Anomaly Detection, Reinforcement Learning, Collaborative Filtering, Recommender Systems
 - **Structuring Machine Learning Projects:** Neural Network Architecture, Decision-Making, Inductive Transfer, Multi-Task Learning, Hyperparameter Tuning, Regularization to Avoid Overfitting
 
-
 ### Models
+- **Trees:** DecisionTreeClassifier, ExtraTreeClassifier
+- **Ensemble Methods:** XGBClassifier, AdaBoost, Bagging, ExtraTrees, GradientBoosting, RandomForest
+- **Gaussian Processes:** GaussianProcessClassifier
+- **Generalized Linear Models (GLM):** LogisticRegressionCV, PassiveAggressiveClassifier, RidgeClassifierCV, SGDClassifier, Perceptron
+- **Naive Bayes:** BernoulliNB, GaussianNB
+- **Nearest Neighbors:** KNeighborsClassifier
+- **Support Vector Machines (SVM):** SVC, NuSVC, LinearSVC
+- **Discriminant Analysis:** LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
+
 ### Methodologies and Best Practices
+- **Project Management:** Version control with Git, comprehensive documentation, organized code structure
+- **Data Science Workflow:** Data collection, preprocessing, modeling, evaluation, and deployment
+- **Quality Assurance:** Cross-validation, hyperparameter tuning, rigorous model evaluation
+
 
 ## Projects Overview
 ### Cybersecurity Data
@@ -92,22 +104,6 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 
 
 
-
-
-### Models
-- **Trees:** DecisionTreeClassifier, ExtraTreeClassifier
-- **Ensemble Methods:** XGBClassifier, AdaBoost, Bagging, ExtraTrees, GradientBoosting, RandomForest
-- **Gaussian Processes:** GaussianProcessClassifier
-- **Generalized Linear Models (GLM):** LogisticRegressionCV, PassiveAggressiveClassifier, RidgeClassifierCV, SGDClassifier, Perceptron
-- **Naive Bayes:** BernoulliNB, GaussianNB
-- **Nearest Neighbors:** KNeighborsClassifier
-- **Support Vector Machines (SVM):** SVC, NuSVC, LinearSVC
-- **Discriminant Analysis:** LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
-
-## Methodologies and Best Practices
-- **Project Management:** Version control with Git, comprehensive documentation, organized code structure
-- **Data Science Workflow:** Data collection, preprocessing, modeling, evaluation, and deployment
-- **Quality Assurance:** Cross-validation, hyperparameter tuning, rigorous model evaluation
 
 ## Projects Overview
 ### 1. Cybersecurity Data
