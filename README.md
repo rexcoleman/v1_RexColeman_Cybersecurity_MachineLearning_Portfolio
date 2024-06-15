@@ -49,8 +49,10 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Version Control and Collaboration:** Git, GitHub
 - **Others:** SciPy, itertools, Graphviz, os, sys, IPython, random, time, Dask, tqdm, pickle
 
-  
 ### Data Handling and Analysis
+- **Processes:** Data Mining, Data preprocessing, feature engineering, exploratory data analysis
+
+  
 ### Mathematics for Machine Learning
 ### Machine Learning and Deep Learning
 ### Models
@@ -79,8 +81,7 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 ## Contact Information
 
 
-### Data Handling and Analysis
-- **Processes:** Data Mining, Data preprocessing, feature engineering, exploratory data analysis
+
 
 ### Mathematics for Machine Learning
 - **Linear Algebra:** Eigenvalues And Eigenvectors, Basis, Transformation Matrix
