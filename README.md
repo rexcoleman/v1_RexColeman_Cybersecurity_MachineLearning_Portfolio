@@ -31,7 +31,7 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
      - [2.5.1 TensorFlow Decision Forest - Titanic](#251-tensorflow-decision-forest---titanic)
      - [2.5.2 K Nearest Neighbors - Pima Indians](#252-k-nearest-neighbors---pima-indians)
 3. [Achievements and Recognitions](#3-achievements-and-recognitions)
-4. [Future Goals](#4-learning-and-development)
+4. [Learning And Development](#4-learning-and-development)
 5. [Contact Information](#5-contact-information)
 
 ## 1) About Me
