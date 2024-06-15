@@ -84,6 +84,7 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 #### 2.1.1) Microsoft Malware Prediction
 
 **Why This Project Matters:**
+
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
 **Project Highlights:**
@@ -94,6 +95,7 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 ### 2.2) Deep Learning
 #### 2.2.1) Neutralizing Surveillance / Privacy Bias
 **Why This Project Matters:**
+
 This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
 
 ![Surveillance privacy bias](img/surveillance_privacy_bias.png)
@@ -146,13 +148,13 @@ This project demonstrates my ability to apply natural language processing (NLP) 
 
 ### 2.3) Data Science Frameworks
 #### 2.3.1) Generalized Data Science Framework - Titanic
+**Why This Project Matters:**
+
+This project outlines a robust framework for approaching data science tasks, emphasizing the importance of a systematic and methodical approach. It showcases my ability to design and implement a diverse set of models to achieve optimal results.
 
 **Project Highlights:**
 - **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
 - **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
-
-**Why This Project Matters:**
-This project outlines a robust framework for approaching data science tasks, emphasizing the importance of a systematic and methodical approach. It showcases my ability to design and implement a diverse set of models to achieve optimal results.
 
 ## Results and Insights
 
@@ -172,6 +174,7 @@ As a general rule for model performance, we want to work on improving the greate
 
 #### 2.3.2) Machine Learning Framework - Pima Indians
 **Why This Project Matters:**
+
 This project reinforces my understanding of fundamental data science concepts and techniques. It highlights my ability to apply these principles to different datasets, ensuring versatility and breadth in my analytical skills.
 
 **Project Highlights:**
@@ -181,6 +184,7 @@ This project reinforces my understanding of fundamental data science concepts an
 ### 2.4) Data Preparation
 #### 2.4.1) Feature Engineering Deep Dive - Pima Indians
 **Why This Project Matters:**
+
 Feature engineering is critical to improving model accuracy and performance. This project showcases my ability to manipulate and transform data to extract valuable features, enhancing the predictive power of models. In the realm of cybersecurity, effective feature engineering can significantly enhance threat detection, behavioral analysis, malware classification, and risk assessment. This demonstrates my capability to apply advanced feature engineering techniques to improve security measures, protect sensitive information, and ensure robust cybersecurity defenses.
 
 **Project Highlights:**
@@ -191,6 +195,7 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 
 #### 2.4.2) Outliers Deep Dive - Pima Indians
 **Why This Project Matters:**
+
 Understanding and handling outliers is essential for building reliable models. This project demonstrates my expertise in maintaining data quality and addressing anomalies that could skew results.
 
 **Project Highlights:**
@@ -199,56 +204,35 @@ Understanding and handling outliers is essential for building reliable models. T
 
 ### 2.5) Model Specific
 #### 2.5.1) TensorFlow Decision Forest - Titanic
+**Why This Project Matters:**
 
+This project illustrates my capability to leverage cutting-edge technologies like TensorFlow to enhance model performance. It underscores my adaptability and continuous learning in utilizing different tools and frameworks to solve complex problems.
 
-#### 2.5.2) K Nearest Neighbors - Pima Indians
-
-## 3) Achievements and Recognitions
-## 4) Future Goals
-## 5) Contact Information
-
-
-
-
-
-
-
-
-
-#### 4.2: Outliers Deep Dive - Pima Indians
-
-
-### 5. Model Specific
-#### 5.1: TensorFlow Decision Forest - Titanic
 **Project Highlights:**
 - **TensorFlow Expertise:** Applies TensorFlow, a leading deep learning library, to decision forest models, highlighting my versatility with different machine learning frameworks.
 - **Innovative Techniques:** Demonstrates the application of decision forests within TensorFlow, integrating deep learning capabilities with traditional models.
 
+#### 2.5.2) K Nearest Neighbors - Pima Indians
 **Why This Project Matters:**
-This project illustrates my capability to leverage cutting-edge technologies like TensorFlow to enhance model performance. It underscores my adaptability and continuous learning in utilizing different tools and frameworks to solve complex problems.
 
-#### 5.2: K Nearest Neighbors - Pima Indians
+This project adds depth to my portfolio by showcasing my proficiency with different algorithms. It demonstrates my ability to select and implement appropriate models based on the dataset and problem at hand.
+
 **Project Highlights:**
 - **Algorithm Focus:** Implements the K Nearest Neighbors algorithm, emphasizing its application and effectiveness on the Pima Indians dataset.
 - **Model Evaluation:** Provides a thorough evaluation of the model's performance, highlighting strengths and limitations.
 
-**Why This Project Matters:**
-This project adds depth to my portfolio by showcasing my proficiency with different algorithms. It demonstrates my ability to select and implement appropriate models based on the dataset and problem at hand.
-
-## Achievements and Recognitions
+## 3) Achievements and Recognitions
 - **Certifications:** [List relevant certifications]
 - **Competitions and Hackathons:** [Mention notable achievements]
 - **Publications and Contributions:** [Include any publications, blog posts, or contributions]
 
-## Future Goals
+## 4) Future Goals
 - **Career Aspirations:** Outline my career goals and aspirations in data science and cybersecurity.
 - **Learning and Development:** Mention areas I am currently focusing on for further skill development.
 
-## Contact Information
+## 5) Contact Information
 - **LinkedIn:** [Your LinkedIn Profile]
 - **GitHub:** [Your GitHub Repository]
 - **Personal Website:** [Your Personal Website]
 - **Email:** [Your Email Address]
-
----
 
