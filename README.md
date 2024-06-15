@@ -42,6 +42,14 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **SQL**
 
 ### Tools and Technologies
+- **Machine Learning and Deep Learning Frameworks:** TensorFlow, Scikit-Learn
+- **Data Manipulation and Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Development and Environment:** Anaconda, Jupyter Notebooks
+- **Version Control and Collaboration:** Git, GitHub
+- **Others:** SciPy, itertools, Graphviz, os, sys, IPython, random, time, Dask, tqdm, pickle
+
+  
 ### Data Handling and Analysis
 ### Mathematics for Machine Learning
 ### Machine Learning and Deep Learning
@@ -70,15 +78,6 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 ## Future Goals
 ## Contact Information
 
-
-
-### Tools and Technologies
-- **Machine Learning and Deep Learning Frameworks:** TensorFlow, Scikit-Learn
-- **Data Manipulation and Analysis:** Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn
-- **Development and Environment:** Anaconda, Jupyter Notebooks
-- **Version Control and Collaboration:** Git, GitHub
-- **Others:** SciPy, itertools, Graphviz, os, sys, IPython, random, time, Dask, tqdm, pickle
 
 ### Data Handling and Analysis
 - **Processes:** Data Mining, Data preprocessing, feature engineering, exploratory data analysis
