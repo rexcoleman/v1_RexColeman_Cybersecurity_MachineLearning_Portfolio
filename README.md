@@ -82,6 +82,7 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 ## Projects Overview
 ### Cybersecurity Data
 #### Microsoft Malware Prediction
+[Back to Table of Contents](#table-of-contents)
 **Why This Project Matters:**
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
