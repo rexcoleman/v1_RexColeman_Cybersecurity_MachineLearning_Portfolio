@@ -52,8 +52,12 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 ### Data Handling and Analysis
 - **Processes:** Data Mining, Data preprocessing, feature engineering, exploratory data analysis
 
-  
 ### Mathematics for Machine Learning
+- **Linear Algebra:** Eigenvalues And Eigenvectors, Basis, Transformation Matrix
+- **Multivariate Calculus:** Principal Component Analysis (PCA), Dimensionality Reduction, Multivariable Calculus, Vector Calculus, Linear Regression, Gradient Descent, Backpropagation, Mathematical Optimization
+- **Probability & Statistics:** Statistical Analysis, Probability, Statistical Hypothesis Testing
+
+  
 ### Machine Learning and Deep Learning
 ### Models
 ### Methodologies and Best Practices
@@ -81,12 +85,6 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 ## Contact Information
 
 
-
-
-### Mathematics for Machine Learning
-- **Linear Algebra:** Eigenvalues And Eigenvectors, Basis, Transformation Matrix
-- **Multivariate Calculus:** Principal Component Analysis (PCA), Dimensionality Reduction, Multivariable Calculus, Vector Calculus, Linear Regression, Gradient Descent, Backpropagation, Mathematical Optimization
-- **Probability & Statistics:** Statistical Analysis, Probability, Statistical Hypothesis Testing
 
 ### Machine Learning and Deep Learning
 - **Techniques:** Regression, classification, clustering, neural networks, ensembling, stacking, Logistic Regression
