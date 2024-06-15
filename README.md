@@ -131,44 +131,7 @@ This project underscores the critical role of semantic image segmentation in adv
 
 ![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
-
 #### Emojify!
-### Data Science Frameworks
-#### Generalized Data Science Framework - Titanic
-#### Machine Learning Framework - Pima Indians
-### Data Preparation
-#### Feature Engineering Deep Dive - Pima Indians
-#### Outliers Deep Dive - Pima Indians
-### Model Specific
-#### TensorFlow Decision Forest - Titanic
-#### K Nearest Neighbors - Pima Indians
-
-## Achievements and Recognitions
-## Future Goals
-## Contact Information
-
-
-
-
-## Projects Overview
-### 1. Cybersecurity Data
-#### 1.1: Microsoft Malware Prediction
-
-
-### 2. Deep Learning
-#### 2.1: Neutralizing Surveillance / Privacy Bias
-
-
-
-#### 2.2: Deep Learning & Art: Neural Style Transfer
-
-
-
-
-#### 2.3: Image Segmentation with U-Net
-
-
-#### 2.4: Emojify!
 **Why This Project Matters:**
 
 This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications in cybersecurity. Sentiment analysis is pivotal in cybersecurity for detecting potential threats, understanding employee sentiments, and monitoring public perception. By showcasing my proficiency in using word embeddings and sentiment analysis, this project highlights how these techniques can enhance threat detection, incident response, and overall cybersecurity strategies.
@@ -181,8 +144,8 @@ This project demonstrates my ability to apply natural language processing (NLP) 
 
 ![GloVe_Emoji](img/think_like_a_hacker.png)
 
-### 3. Data Science Frameworks
-#### 3.1: Generalized Data Science Framework - Titanic
+### Data Science Frameworks
+#### Generalized Data Science Framework - Titanic
 **Project Highlights:**
 - **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
 - **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
@@ -205,6 +168,26 @@ Defining variance as the spread between test error and train error. Typically it
 ![Model variance indicator](img/BiasVariancePlot.png)
 
 As a general rule for model performance, we want to work on improving the greater error (bias or variance).
+
+
+
+#### Machine Learning Framework - Pima Indians
+### Data Preparation
+#### Feature Engineering Deep Dive - Pima Indians
+#### Outliers Deep Dive - Pima Indians
+### Model Specific
+#### TensorFlow Decision Forest - Titanic
+#### K Nearest Neighbors - Pima Indians
+
+## Achievements and Recognitions
+## Future Goals
+## Contact Information
+
+
+
+
+### 3. Data Science Frameworks
+#### 3.1: Generalized Data Science Framework - Titanic
 
 #### 3.2: Machine Learning Framework - Pima Indians
 **Project Highlights:**
