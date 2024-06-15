@@ -5,43 +5,43 @@ A curated collection of machine learning projects demonstrating practical applic
 Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data scientist with extensive experience in cybersecurity, I aim to showcase my comprehensive skill set through a series of projects that blend advanced data science methodologies with robust cybersecurity principles. This portfolio highlights my strategy of intentionally building upon leading projects from Kaggle to accelerate my learning curve and develop a top 1% data science skill set. Each project is carefully selected and meticulously crafted to demonstrate my proficiency and dedication to the field.
 
 ## Table of Contents
-1. [About Me](#about-me)
-   - [Programming Languages](#programming-languages)
-   - [Tools and Technologies](#tools-and-technologies)
-   - [Data Handling and Analysis](#data-handling-and-analysis)
-   - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
-   - [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
-   - [Models](#models)
-   - [Methodologies and Best Practices](#methodologies-and-best-practices)
-2. [Projects Overview](#projects-overview)
-   - [Cybersecurity Data](#cybersecurity-data)
-     - [Microsoft Malware Prediction](#microsoft-malware-prediction)
-   - [Deep Learning](#deep-learning)
-     - [Neutralizing Surveillance / Privacy Bias](#neutralizing-surveillance--privacy-bias)
-     - [Deep Learning & Art: Neural Style Transfer](#deep-learning--art-neural-style-transfer)
-     - [Image Segmentation with U-Net](#image-segmentation-with-u-net)
-     - [Emojify!](#emojify)
-   - [Data Science Frameworks](#data-science-frameworks)
-     - [Generalized Data Science Framework - Titanic](#generalized-data-science-framework---titanic)
-     - [Machine Learning Framework - Pima Indians](#machine-learning-framework---pima-indians)
-   - [Data Preparation](#data-preparation)
-     - [Feature Engineering Deep Dive - Pima Indians](#feature-engineering-deep-dive---pima-indians)
-     - [Outliers Deep Dive - Pima Indians](#outliers-deep-dive---pima-indians)
-   - [Model Specific](#model-specific)
-     - [TensorFlow Decision Forest - Titanic](#tensorflow-decision-forest---titanic)
-     - [K Nearest Neighbors - Pima Indians](#k-nearest-neighbors---pima-indians)
-3. [Achievements and Recognitions](#achievements-and-recognitions)
-4. [Future Goals](#future-goals)
-5. [Contact Information](#contact-information)
+1. [About Me](#1-about-me)
+   - [1.1 Programming Languages](#11-programming-languages)
+   - [1.2 Tools and Technologies](#12-tools-and-technologies)
+   - [1.3 Data Handling and Analysis](#13-data-handling-and-analysis)
+   - [1.4 Mathematics for Machine Learning](#14-mathematics-for-machine-learning)
+   - [1.5 Machine Learning and Deep Learning](#15-machine-learning-and-deep-learning)
+   - [1.6 Models](#16-models)
+   - [1.7 Methodologies and Best Practices](#17-methodologies-and-best-practices)
+2. [Projects Overview](#2-projects-overview)
+   - [2.1 Cybersecurity Data](#21-cybersecurity-data)
+     - [2.1.1 Microsoft Malware Prediction](#211-microsoft-malware-prediction)
+   - [2.2 Deep Learning](#22-deep-learning)
+     - [2.2.1 Neutralizing Surveillance / Privacy Bias](#221-neutralizing-surveillance--privacy-bias)
+     - [2.2.2 Deep Learning & Art: Neural Style Transfer](#222-deep-learning--art-neural-style-transfer)
+     - [2.2.3 Image Segmentation with U-Net](#223-image-segmentation-with-u-net)
+     - [2.2.4 Emojify!](#224-emojify)
+   - [2.3 Data Science Frameworks](#23-data-science-frameworks)
+     - [2.3.1 Generalized Data Science Framework - Titanic](#231-generalized-data-science-framework---titanic)
+     - [2.3.2 Machine Learning Framework - Pima Indians](#232-machine-learning-framework---pima-indians)
+   - [2.4 Data Preparation](#24-data-preparation)
+     - [2.4.1 Feature Engineering Deep Dive - Pima Indians](#241-feature-engineering-deep-dive---pima-indians)
+     - [2.4.2 Outliers Deep Dive - Pima Indians](#242-outliers-deep-dive---pima-indians)
+   - [2.5 Model Specific](#25-model-specific)
+     - [2.5.1 TensorFlow Decision Forest - Titanic](#251-tensorflow-decision-forest---titanic)
+     - [2.5.2 K Nearest Neighbors - Pima Indians](#252-k-nearest-neighbors---pima-indians)
+3. [Achievements and Recognitions](#3-achievements-and-recognitions)
+4. [Future Goals](#4-future-goals)
+5. [Contact Information](#5-contact-information)
 
-## About Me
+## 1) About Me
 I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Georgia Tech, hold an MBA from Melbourne Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
 
-### Programming Languages
+### 1.1) Programming Languages
 - **Python**
 - **SQL**
 
-### Tools and Technologies
+### 1.2) Tools and Technologies
 - **Machine Learning and Deep Learning Frameworks:** TensorFlow, Scikit-Learn
 - **Data Manipulation and Analysis:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
@@ -49,22 +49,22 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Version Control and Collaboration:** Git, GitHub
 - **Others:** SciPy, itertools, Graphviz, os, sys, IPython, random, time, Dask, tqdm, pickle
 
-### Data Handling and Analysis
+### 1.3) Data Handling and Analysis
 - **Processes:** Data Mining, Data preprocessing, feature engineering, exploratory data analysis
 
-### Mathematics for Machine Learning
+### 1.4) Mathematics for Machine Learning
 - **Linear Algebra:** Eigenvalues And Eigenvectors, Basis, Transformation Matrix
 - **Multivariate Calculus:** Principal Component Analysis (PCA), Dimensionality Reduction, Multivariable Calculus, Vector Calculus, Linear Regression, Gradient Descent, Backpropagation, Mathematical Optimization
 - **Probability & Statistics:** Statistical Analysis, Probability, Statistical Hypothesis Testing
   
-### Machine Learning and Deep Learning
+### 1.5) Machine Learning and Deep Learning
 - **Techniques:** Regression, classification, clustering, neural networks, ensembling, stacking, Logistic Regression
 - **Sequence Models:** Transformers, Attention Models, Gated Recurrent Unit (GRU), Recurrent Neural Network, Natural Language Processing, Long Short Term Memory (LSTM)
 - **Convolutional Neural Networks:** Facial Recognition System, Object Detection and Segmentation
 - **Unsupervised Learning:** Anomaly Detection, Reinforcement Learning, Collaborative Filtering, Recommender Systems
 - **Structuring Machine Learning Projects:** Neural Network Architecture, Decision-Making, Inductive Transfer, Multi-Task Learning, Hyperparameter Tuning, Regularization to Avoid Overfitting
 
-### Models
+### 1.6) Models
 - **Trees:** DecisionTreeClassifier, ExtraTreeClassifier
 - **Ensemble Methods:** XGBClassifier, AdaBoost, Bagging, ExtraTrees, GradientBoosting, RandomForest
 - **Gaussian Processes:** GaussianProcessClassifier
@@ -74,14 +74,14 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 - **Support Vector Machines (SVM):** SVC, NuSVC, LinearSVC
 - **Discriminant Analysis:** LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
 
-### Methodologies and Best Practices
+### 1.7) Methodologies and Best Practices
 - **Project Management:** Version control with Git, comprehensive documentation, organized code structure
 - **Data Science Workflow:** Data collection, preprocessing, modeling, evaluation, and deployment
 - **Quality Assurance:** Cross-validation, hyperparameter tuning, rigorous model evaluation
 
-## Projects Overview
-### Cybersecurity Data
-#### Microsoft Malware Prediction
+## 2) Projects Overview
+### 2.1) Cybersecurity Data
+#### 2.1.1) Microsoft Malware Prediction
 
 **Why This Project Matters:**
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
@@ -91,8 +91,8 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 - **Production-Ready Design:** The project is cleanly organized and designed for a production environment, handling large and complex datasets effectively.
 - **Advanced Techniques:** Utilizes LightGBM, a state-of-the-art gradient boosting framework that enhances model performance and efficiency.
 
-### Deep Learning
-#### Neutralizing Surveillance / Privacy Bias
+### 2.2) Deep Learning
+#### 2.2.1) Neutralizing Surveillance / Privacy Bias
 **Why This Project Matters:**
 This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
 
@@ -105,7 +105,7 @@ This project demonstrates my understanding of word embeddings and their applicat
 - **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
 - **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
 
-#### Deep Learning & Art: Neural Style Transfer
+#### 2.2.2) Deep Learning & Art: Neural Style Transfer
 **Why This Project Matters:**
 
 This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. In the realm of cybersecurity, Neural Style Transfer can be used for advanced obfuscation techniques, phishing detection, and forensic analysis, among other applications. This highlights my proficiency in implementing complex algorithms and optimizing cost functions to solve real-world cybersecurity challenges.
@@ -118,7 +118,7 @@ This project blends creativity with deep learning, demonstrating my ability to a
 
 ![surf_art](img/teahupoo_basquiet_1.png)
 
-#### Image Segmentation with U-Net
+#### 2.2.3) Image Segmentation with U-Net
 **Why This Project Matters:**
 
 This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information.
@@ -131,7 +131,7 @@ This project underscores the critical role of semantic image segmentation in adv
 
 ![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
-#### Emojify!
+#### 2.2.4) Emojify!
 **Why This Project Matters:**
 
 This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications in cybersecurity. Sentiment analysis is pivotal in cybersecurity for detecting potential threats, understanding employee sentiments, and monitoring public perception. By showcasing my proficiency in using word embeddings and sentiment analysis, this project highlights how these techniques can enhance threat detection, incident response, and overall cybersecurity strategies.
@@ -144,8 +144,9 @@ This project demonstrates my ability to apply natural language processing (NLP) 
 
 ![GloVe_Emoji](img/think_like_a_hacker.png)
 
-### Data Science Frameworks
-#### Generalized Data Science Framework - Titanic
+### 2.3) Data Science Frameworks
+#### 2.3.1) Generalized Data Science Framework - Titanic
+
 **Project Highlights:**
 - **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
 - **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
@@ -171,17 +172,18 @@ As a general rule for model performance, we want to work on improving the greate
 
 
 
-#### Machine Learning Framework - Pima Indians
-### Data Preparation
-#### Feature Engineering Deep Dive - Pima Indians
-#### Outliers Deep Dive - Pima Indians
-### Model Specific
-#### TensorFlow Decision Forest - Titanic
-#### K Nearest Neighbors - Pima Indians
+#### 2.3.2) Machine Learning Framework - Pima Indians
+### 2.4) Data Preparation
+#### 2.4.1) Feature Engineering Deep Dive - Pima Indians
+#### 2.4.2) Outliers Deep Dive - Pima Indians
+### 2.5) Model Specific
+#### 2.5.1) TensorFlow Decision Forest - Titanic
+#### 2.5.2) K Nearest Neighbors - Pima Indians
 
-## Achievements and Recognitions
-## Future Goals
-## Contact Information
+## 3) Achievements and Recognitions
+## 4) Future Goals
+## 5) Contact Information
+
 
 
 
