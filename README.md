@@ -81,7 +81,7 @@ I am a data scientist with a strong background in cybersecurity. My career journ
 
 ## 2) Projects Overview
 ### 2.1) Cybersecurity Data
-#### 2.1.1) Microsoft Malware Prediction
+#### [2.1.1) Microsoft Malware Prediction](https://github.com/rexcoleman/Microsoft-Malware-Prediction)
 
 **Why This Project Matters:**
 
