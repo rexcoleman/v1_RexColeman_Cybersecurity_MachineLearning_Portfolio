@@ -35,7 +35,12 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
 5. [Contact Information](#contact-information)
 
 ## About Me
+I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Georgia Tech, hold an MBA from Melbourne Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
+
 ### Programming Languages
+- **Python**
+- **SQL**
+
 ### Tools and Technologies
 ### Data Handling and Analysis
 ### Mathematics for Machine Learning
@@ -65,12 +70,7 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
 ## Future Goals
 ## Contact Information
 
-## About Me
-I am a data scientist with a strong background in cybersecurity. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am a candidate for a Masters of Science in Analytics from Georgia Tech, hold an MBA from Melbourne Business School in Australia, a Bachelor of Science in Biochemistry from the University of California Santa Cruz and have worked on various projects that demonstrate my skills in both data science and cybersecurity.
 
-### Programming Languages
-- **Python**
-- **SQL**
 
 ### Tools and Technologies
 - **Machine Learning and Deep Learning Frameworks:** TensorFlow, Scikit-Learn
