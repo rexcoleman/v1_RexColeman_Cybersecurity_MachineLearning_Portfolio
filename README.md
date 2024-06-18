@@ -147,7 +147,7 @@ This project demonstrates my ability to apply natural language processing (NLP) 
 ![GloVe_Emoji](img/think_like_a_hacker.png)
 
 ### 2.3) Data Science Frameworks
-#### [2.3.1) Generalized Data Science Framework - Titanic]([git@github.com:rexcoleman/GeneralizedDataScienceFramework-Titanic.git](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic))
+#### [2.3.1) Generalized Data Science Framework - Titanic](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic)
 **Why This Project Matters:**
 
 This project outlines a robust framework for approaching data science tasks, emphasizing the importance of a systematic and methodical approach. It showcases my ability to design and implement a diverse set of models to achieve optimal results.
