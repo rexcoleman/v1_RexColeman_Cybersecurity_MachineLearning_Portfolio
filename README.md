@@ -107,7 +107,7 @@ This project demonstrates my understanding of word embeddings and their applicat
 - **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
 - **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
 
-#### 2.2.2) [Enhancing Phishing Detection With Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
+#### [2.2.2) Enhancing Phishing Detection With Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 **Why This Project Matters:**
 
 This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. In the realm of cybersecurity, Neural Style Transfer can be used for advanced obfuscation techniques, phishing detection, and forensic analysis, among other applications. This highlights my proficiency in implementing complex algorithms and optimizing cost functions to solve real-world cybersecurity challenges.
