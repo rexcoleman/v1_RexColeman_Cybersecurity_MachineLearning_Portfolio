@@ -18,7 +18,7 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
      - [2.1.1 Microsoft Malware Prediction](#211-microsoft-malware-prediction)
    - [2.2 Deep Learning](#22-deep-learning)
      - [2.2.1 Neutralizing Surveillance / Privacy Bias](#221-neutralizing-surveillance--privacy-bias)
-     - [2.2.2 Deep Learning & Art: Neural Style Transfer](#222-deep-learning--art-neural-style-transfer)
+     - [2.2.2 Enhancing Phishing Detection With Neural Style Transfer](#222-deep-learning--art-neural-style-transfer)
      - [2.2.3 Image Segmentation with U-Net](#223-image-segmentation-with-u-net)
      - [2.2.4 Emojify!](#224-emojify)
    - [2.3 Data Science Frameworks](#23-data-science-frameworks)
@@ -107,7 +107,7 @@ This project demonstrates my understanding of word embeddings and their applicat
 - **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
 - **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
 
-#### 2.2.2) Deep Learning & Art: Neural Style Transfer
+#### 2.2.2) [Enhancing Phishing Detection With Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 **Why This Project Matters:**
 
 This project blends creativity with deep learning, demonstrating my ability to apply advanced neural network techniques to generate novel and artistic outputs. In the realm of cybersecurity, Neural Style Transfer can be used for advanced obfuscation techniques, phishing detection, and forensic analysis, among other applications. This highlights my proficiency in implementing complex algorithms and optimizing cost functions to solve real-world cybersecurity challenges.
