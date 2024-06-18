@@ -18,7 +18,7 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
      - [2.1.1 Microsoft Malware Prediction](#211-microsoft-malware-prediction)
    - [2.2 Deep Learning](#22-deep-learning)
      - [2.2.1 Neutralizing Surveillance / Privacy Bias](#221-neutralizing-surveillance--privacy-bias)
-     - [2.2.2 Enhancing Phishing Detection With Neural Style Transfer](#222-deep-learning--art-neural-style-transfer)
+     - [2.2.2 Enhancing Phishing Detection With Neural Style Transfer](#222-enhancing-phishing-dectection-with-neural-style-transfer)
      - [2.2.3 Image Segmentation with U-Net](#223-image-segmentation-with-u-net)
      - [2.2.4 Emojify!](#224-emojify)
    - [2.3 Data Science Frameworks](#23-data-science-frameworks)
