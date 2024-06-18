@@ -93,7 +93,7 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 - **Advanced Techniques:** Utilizes LightGBM, a state-of-the-art gradient boosting framework that enhances model performance and efficiency.
 
 ### 2.2) Deep Learning
-#### 2.2.1) Neutralizing Surveillance / Privacy Bias
+#### [2.2.1) Neutralizing Surveillance / Privacy Bias](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
 **Why This Project Matters:**
 
 This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
