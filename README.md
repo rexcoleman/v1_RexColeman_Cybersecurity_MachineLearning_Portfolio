@@ -182,7 +182,7 @@ This project reinforces my understanding of fundamental data science concepts an
 - **Model Stacking:** Includes both ensembling and stacking of multiple traditional learning models to boost performance.
 
 ### 2.4) Data Preparation
-#### 2.4.1) Feature Engineering Deep Dive - Pima Indians
+#### [2.4.1) Feature Engineering Deep Dive - Pima Indians](https://github.com/rexcoleman/Kaggle_Competitions/blob/main/Pima%20Indians%20Diabetes/PimaIndiansDiabetes-EDA-Predict-0.906.ipynb)
 **Why This Project Matters:**
 
 Feature engineering is critical to improving model accuracy and performance. This project showcases my ability to manipulate and transform data to extract valuable features, enhancing the predictive power of models. In the realm of cybersecurity, effective feature engineering can significantly enhance threat detection, behavioral analysis, malware classification, and risk assessment. This demonstrates my capability to apply advanced feature engineering techniques to improve security measures, protect sensitive information, and ensure robust cybersecurity defenses.
