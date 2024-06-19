@@ -118,7 +118,7 @@ This project blends creativity with deep learning, demonstrating my ability to a
 - **Advanced Deep Learning:** Implements Neural Style Transfer using TensorFlow and VGG-19, showcasing the use of pre-trained models for transfer learning. These models can be leveraged to enhance cybersecurity threat detection and analysis.
 - **Optimization Techniques:** Focuses on optimizing cost functions to generate visually appealing images. Optimization skills are crucial for improving the performance of various cybersecurity models.
 
-![surf_art](img/teahupoo_basquiet_1.png)
+![website_style_change](img/website_style_change.png)
 
 #### [2.2.3) U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
 **Why This Project Matters:**
