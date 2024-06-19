@@ -132,7 +132,6 @@ Releated Malware Families                             | Unreleated Malware Famil
 
 
 *Figure 2: U-net's ability to segment features in images could be applied to a wide array of cybersecurity use cases. As an exsample, this figure shows images of related malware families (left) and unrelated malware families (right).*
-![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
 #### [2.2.4) Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 **Why This Project Matters:**
