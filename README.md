@@ -172,7 +172,7 @@ Defining variance as the spread between test error and train error. Typically it
 
 As a general rule for model performance, we want to work on improving the greater error (bias or variance).
 
-#### 2.3.2) Machine Learning Framework - Pima Indians
+#### [2.3.2) Machine Learning Framework - Pima Indians](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians)
 **Why This Project Matters:**
 
 This project reinforces my understanding of fundamental data science concepts and techniques. It highlights my ability to apply these principles to different datasets, ensuring versatility and breadth in my analytical skills.
