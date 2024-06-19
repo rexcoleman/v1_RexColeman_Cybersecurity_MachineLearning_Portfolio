@@ -2,7 +2,7 @@
 A curated collection of innovative machine learning projects integrating lean business principles with cutting-edge AI cybersecurity solutions.
 
 ## Introduction
-Welcome to my Strategic Cybersecurity Data Science Portfolio. As a data scientist dedicated to driving cybersecurity innovation and market leadership, I merge lean business principles with state-of-the-art AI solutions. This portfolio showcases my ability to blend advanced data science methodologies with robust cybersecurity practices, emphasizing strategic problem-solving and industry leadership. The projects in this portfolio have two flavors: i) strategic cybersecuity and AI innovation and ii) data science best practices.  I hope you find reviewing this portfolio as enjoyable and thought provoking as it was for me to create it.
+Welcome to my Strategic Cybersecurity Data Science Portfolio. As a data scientist dedicated to driving cybersecurity innovation and market leadership, I merge lean business principles with state-of-the-art AI solutions. This portfolio showcases my ability to blend advanced data science methodologies with robust cybersecurity practices, emphasizing strategic problem-solving and industry leadership. The projects in this portfolio showcase two themes: i) strategic cybersecuity and AI innovation and ii) data science best practices.  I hope you find reviewing this portfolio as enjoyable and thought provoking as it was for me to create it.
 
 ## Table of Contents
 1. [About Me](#1-about-me)
