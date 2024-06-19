@@ -212,7 +212,7 @@ This project illustrates my capability to leverage cutting-edge technologies lik
 - **TensorFlow Expertise:** Applies TensorFlow, a leading deep learning library, to decision forest models, highlighting my versatility with different machine learning frameworks.
 - **Innovative Techniques:** Demonstrates the application of decision forests within TensorFlow, integrating deep learning capabilities with traditional models.
 
-#### {2.5.2) K Nearest Neighbors - Pima Indians}(https://github.com/rexcoleman/Machine-Learning-Framework---Pima-Indians)
+#### [2.5.2) K Nearest Neighbors - Pima Indians](https://github.com/rexcoleman/K-Nearest-Neighbors-Pima-Indians)
 **Why This Project Matters:**
 
 This project adds depth to my portfolio by showcasing my proficiency with different algorithms. It demonstrates my ability to select and implement appropriate models based on the dataset and problem at hand.
