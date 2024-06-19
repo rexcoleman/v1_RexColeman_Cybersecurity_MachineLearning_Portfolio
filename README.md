@@ -19,7 +19,7 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
    - [2.2 Deep Learning](#22-deep-learning)
      - [2.2.1 Neutralizing Surveillance / Privacy Bias](#221-neutralizing-surveillance--privacy-bias)
      - [2.2.2 Enhancing Phishing Detection With Neural Style Transfer](#222-enhancing-phishing-detection-with-neural-style-transfer)
-     - [2.2.3 Image Segmentation with U-Net](#223-image-segmentation-with-u-net)
+     - [2.2.3 U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](#223-image-segmentation-with-u-net)
      - [2.2.4 Emojify!](#224-emojify)
    - [2.3 Data Science Frameworks](#23-data-science-frameworks)
      - [2.3.1 Generalized Data Science Framework - Titanic](#231-generalized-data-science-framework---titanic)
@@ -120,7 +120,7 @@ This project blends creativity with deep learning, demonstrating my ability to a
 
 ![surf_art](img/teahupoo_basquiet_1.png)
 
-#### 2.2.3) Image Segmentation with U-Net
+#### [2.2.3) U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
 **Why This Project Matters:**
 
 This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information.
