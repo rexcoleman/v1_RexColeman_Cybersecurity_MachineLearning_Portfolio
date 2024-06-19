@@ -20,7 +20,7 @@ Welcome to my Machine Learning and Cybersecurity Portfolio. As a seasoned data s
      - [2.2.1 Neutralizing Surveillance / Privacy Bias](#221-neutralizing-surveillance--privacy-bias)
      - [2.2.2 Enhancing Phishing Detection With Neural Style Transfer](#222-enhancing-phishing-detection-with-neural-style-transfer)
      - [2.2.3 U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](#223-u-net-in-cybersecurity-precision-image-segmentation-for-enhanced-security-measures)
-     - [2.2.4 Unlocking Cybersecurity Potential with Sentiment Analysis](#224-emojify)
+     - [2.2.4 Unlocking Cybersecurity Potential with Sentiment Analysis](#224-unlocking-cybersecurity-potential-with-sentiment-analysis)
    - [2.3 Data Science Frameworks](#23-data-science-frameworks)
      - [2.3.1 Generalized Data Science Framework - Titanic](#231-generalized-data-science-framework---titanic)
      - [2.3.2 Machine Learning Framework - Pima Indians](#232-machine-learning-framework---pima-indians)
@@ -133,7 +133,7 @@ This project underscores the critical role of semantic image segmentation in adv
 
 ![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
-#### [2.2.4) Unlocking Cybersecurity Potential with Sentiment Analysis]()
+#### [2.2.4) Unlocking Cybersecurity Potential with Sentiment Analysis](git@github.com:rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis.git)
 **Why This Project Matters:**
 
 This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications in cybersecurity. Sentiment analysis is pivotal in cybersecurity for detecting potential threats, understanding employee sentiments, and monitoring public perception. By showcasing my proficiency in using word embeddings and sentiment analysis, this project highlights how these techniques can enhance threat detection, incident response, and overall cybersecurity strategies.
