@@ -141,18 +141,13 @@ Releated Malware Families                             | Unreleated Malware Famil
 *Figure 2: U-net's ability to segment features in images could be applied to a wide array of cybersecurity use cases. As an exsample, this figure shows images of related malware families (left) and unrelated malware families (right).*
 
 #### [2.2.4) Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
-**Why This Project Matters:**
+#### Executive Summary
 
-This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications in cybersecurity. Sentiment analysis is pivotal in cybersecurity for detecting potential threats, understanding employee sentiments, and monitoring public perception. By showcasing my proficiency in using word embeddings and sentiment analysis, this project highlights how these techniques can enhance threat detection, incident response, and overall cybersecurity strategies.
-
-**Project Highlights:**
-
-- **NLP and Sentiment Analysis:** Utilizes word vector representations to build an Emojifier that makes text messages more expressive. This technique can be adapted to detect and analyze sentiment in cybersecurity communications.
-- **Word Embeddings:** Implements techniques to generalize and associate words with emojis, even if the words do not appear in the training set. These embeddings can be used to identify patterns and trends in cybersecurity-related texts.
-- **Sequence Models:** Leverages LSTMs to build a sentiment classifier using word embeddings, which can be crucial in understanding the context and emotional tone of communications.
+Sentiment analysis is a pivotal tool in cybersecurity, leveraging natural language processing (NLP) techniques to enhance threat detection, incident response, and overall security strategies. This report explores the diverse applications of sentiment analysis in cybersecurity, focusing on practical implementations such as the Emojify project. By analyzing sentiments expressed in textual data from various sources, organizations can proactively manage risks, improve incident handling, and safeguard their reputation.
 
 ![GloVe_Emoji](img/think_like_a_hacker.png)
 
+*Figure 1: This image showing how the GloVe algorithm was used to classify sentiment analysis by appling an Emoji at the end of a sentence.*
 ### 2.3) Data Science Frameworks
 #### [2.3.1) Generalized Data Science Framework - Titanic](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic)
 **Why This Project Matters:**
