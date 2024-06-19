@@ -122,16 +122,16 @@ This project blends creativity with deep learning, demonstrating my ability to a
 ![website_style_change](img/website_style_change.png)
 
 #### [2.2.3) U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures](https://github.com/rexcoleman/U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures)
-**Why This Project Matters:**
+# Executive Summary
 
-This project underscores the critical role of semantic image segmentation in advanced applications such as self-driving cars. It showcases my ability to implement complex deep learning models and highlights the practical importance of precise image understanding. In the realm of cybersecurity, U-Net can enhance intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This demonstrates my capability to apply advanced segmentation techniques to improve security measures and protect sensitive information.
+This report showcases the application of U-Net, a powerful convolutional neural network architecture, in cybersecurity through precision image segmentation. U-Net's ability to accurately segment images has significant implications for enhancing security measures such as intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This document explores the architecture of U-Net, its applications in cybersecurity, a project demonstration in image segmentation, and future directions for leveraging U-Net in cybersecurity.
 
-**Project Highlights:**
+Releated Malware Families                             | Unreleated Malware Families
+:---------------------------------------------------: | :---------------------------------------------------:
+![related_malware_famalies](img/related_malware_families.webp) | ![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
 
-- **Advanced Segmentation:** Implements U-Net, a sophisticated convolutional neural network designed for precise image segmentation. In cybersecurity, U-Net can be adapted for intrusion detection, anomaly detection in network traffic, and identifying malicious content.
-- **Self-Driving Car Dataset:** Applies semantic image segmentation to images from a self-driving car dataset, labeling each pixel with its corresponding class. The techniques can be extended to analyze and secure surveillance footage and enhance digital forensics.
-- **Practical Application:** Demonstrates the importance of pixel-perfect understanding in autonomous driving for safety and navigation. Similarly, in cybersecurity, precise image segmentation is crucial for accurate threat detection and response.
 
+*Figure 2: U-net's ability to segment features in images could be applied to a wide array of cybersecurity use cases. As an exsample, this figure shows images of related malware families (left) and unrelated malware families (right).*
 ![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
 #### [2.2.4) Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
