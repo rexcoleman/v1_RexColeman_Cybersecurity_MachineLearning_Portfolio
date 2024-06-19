@@ -193,7 +193,7 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 
 ![Feature engineering example](img/FeatureEngineering.png)
 
-#### 2.4.2) Outliers Deep Dive - Pima Indians
+#### [2.4.2) Outliers Deep Dive - Pima Indians](https://github.com/rexcoleman/Outliers-Deep-Dive---Pima-Indians/tree/main)
 **Why This Project Matters:**
 
 Understanding and handling outliers is essential for building reliable models. This project demonstrates my expertise in maintaining data quality and addressing anomalies that could skew results.
