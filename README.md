@@ -203,7 +203,7 @@ Understanding and handling outliers is essential for building reliable models. T
 - **Methodological Approach:** Utilizes various techniques to identify and address outliers, ensuring data integrity and model robustness.
 
 ### 2.5) Model Specific
-#### 2.5.1) TensorFlow Decision Forest - Titanic
+#### [2.5.1) TensorFlow Decision Forest - Titanic](https://github.com/rexcoleman/TensorFlow-Decision-Forest-Titanic/tree/main)
 **Why This Project Matters:**
 
 This project illustrates my capability to leverage cutting-edge technologies like TensorFlow to enhance model performance. It underscores my adaptability and continuous learning in utilizing different tools and frameworks to solve complex problems.
