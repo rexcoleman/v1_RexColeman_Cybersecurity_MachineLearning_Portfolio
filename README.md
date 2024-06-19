@@ -35,7 +35,7 @@ Welcome to my Strategic Cybersecurity Data Science Portfolio. As a data scientis
 5. [Contact Information](#5-contact-information)
 
 ## 1) About Me
-I am a data scientist with a strong background in cybersecurity, dedicated to driving innovation and achieving market leadership. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I hold a Master's of Science in Analytics from Georgia Tech, an MBA from Melbourne Business School in Australia, and a Bachelor of Science in Biochemistry from the University of California Santa Cruz. Through various projects, I have demonstrated my skills in both data science and cybersecurity, showcasing my ability to integrate lean business principles with advanced AI solutions to address strategic challenges in the field.
+I am a data scientist with a strong background in cybersecurity, dedicated to driving innovation and achieving market leadership. My career journey has been shaped by a passion for solving complex problems and a commitment to continuous learning. I am attending Georgia Tech's Master's of Science in Analytics program and hold an MBA from Melbourne Business School in Australia, and a Bachelor of Science in Biochemistry and Molecular Biology from the University of California Santa Cruz.  I worked at FireEye / Mandiant for decade starting when FireEye was an 80 person company.  Most recently, I took a few bets as an entrepreneur exploring how to solve cybersecurity problems with blockchain technology.  Through the projects in this portfolio, I am to communicate my technical data science prowess and strategic cybersecurity acumen.
 
 ### 1.1) Programming Languages
 - **Python**
