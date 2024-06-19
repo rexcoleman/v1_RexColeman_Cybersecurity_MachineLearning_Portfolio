@@ -133,7 +133,7 @@ This project underscores the critical role of semantic image segmentation in adv
 
 ![image_segmentation_u_net](img/image_segmentation_u_net.png)
 
-#### [2.2.4) Unlocking Cybersecurity Potential with Sentiment Analysis](git@github.com:rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis.git)
+#### [2.2.4) Unlocking Cybersecurity Potential with Sentiment Analysis](https://github.com/rexcoleman/Unlocking-Cybersecurity-Potential-with-Sentiment-Analysis)
 **Why This Project Matters:**
 
 This project demonstrates my ability to apply natural language processing (NLP) techniques and sequence models to real-world applications in cybersecurity. Sentiment analysis is pivotal in cybersecurity for detecting potential threats, understanding employee sentiments, and monitoring public perception. By showcasing my proficiency in using word embeddings and sentiment analysis, this project highlights how these techniques can enhance threat detection, incident response, and overall cybersecurity strategies.
