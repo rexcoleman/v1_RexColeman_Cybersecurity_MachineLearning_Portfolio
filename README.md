@@ -88,8 +88,9 @@ I am a data scientist with a strong background in cybersecurity, dedicated to dr
 This project showcases my ability to tackle real-world cybersecurity challenges using advanced data science techniques. It demonstrates my proficiency in managing large-scale data, implementing sophisticated algorithms, and delivering actionable insights that can enhance security measures.
 
 **Project Highlights:**
-- **Flagship Project:** This project represents the intersection of cybersecurity and data science, making it a cornerstone of my portfolio.
-- **Production-Ready Design:** The project is cleanly organized and designed for a production environment, handling large and complex datasets effectively.
+- **Cybersecurity Data:** This is my first of soon to be many data science projects leveraging cybersecurity data to solve cybersecurityu problems.
+- **Complex Data:** The project utilizes a larg and complex dataset.
+- **Production-Ready Design:** The project is cleanly organized and designed for a production environment.
 - **Advanced Techniques:** Utilizes LightGBM, a state-of-the-art gradient boosting framework that enhances model performance and efficiency.
 
 ### 2.2) Deep Learning
