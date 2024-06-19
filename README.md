@@ -95,13 +95,19 @@ This project showcases my ability to tackle real-world cybersecurity challenges 
 
 ### 2.2) Deep Learning
 #### [2.2.1) Neutralizing Surveillance / Privacy Bias](https://github.com/rexcoleman/Neutralizing-Surveillance-Privacy-Bias)
-**Why This Project Matters:**
+#### Executive Summary
 
-This project demonstrates my understanding of word embeddings and their applications in natural language processing. It highlights my ability to uncover and mitigate cybersecurity biases in machine learning models, promoting fairness, accuracy and improved cybersecurity systems.
+Addressing bias in cybersecurity is essential to ensure effective threat detection, efficient resource allocation, and maintaining user trust. Bias in cybersecurity can originate from historical data, algorithmic design, or human judgment, leading to compromised security measures, inefficient use of resources, and damaged organizational reputation. Data scientists play a critical role in identifying and mitigating these biases through diverse and representative data collection, fairness-aware algorithms, and continuous model evaluation. This report outlines the importance of addressing bias in cybersecurity and provides a detailed summary of a project on operations with word vectors, highlighting its accomplishments and relevance to mitigating bias.
 
 ![Surveillance privacy bias](img/surveillance_privacy_bias.png)
 
+*Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
+
+### 5.2 Name Bias Neutralization
+
 ![name_bias_neutralization](img/name_bias_neutralization.png)
+
+*Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
 
 **Project Highlights:**
 - **Word Embeddings:** Loads, measures similarity, and modifies pre-trained word embeddings to capture relationships between words.
