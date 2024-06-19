@@ -109,11 +109,6 @@ Addressing bias in cybersecurity is essential to ensure effective threat detecti
 
 *Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
 
-**Project Highlights:**
-- **Word Embeddings:** Loads, measures similarity, and modifies pre-trained word embeddings to capture relationships between words.
-- **Word Analogies:** Solves word analogy problems and explores the concept of gender bias in word embeddings.
-- **Debiasing Techniques:** Implements algorithms to reduce gender bias in word embeddings, ensuring fairness in NLP applications.
-
 #### [2.2.2) Enhancing Phishing Detection With Neural Style Transfer](https://github.com/rexcoleman/Enhancing_Phishing-Detection-With-Neural-Style-Transfer)
 
 #### Executive Summary
