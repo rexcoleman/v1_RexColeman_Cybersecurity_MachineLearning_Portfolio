@@ -168,7 +168,7 @@ Thank you for visiting my repository. I hope this project inspires you to implem
 
 ![Model variance indicator](img/bias_variance_plot.png)
 
-*Figure 3: Model Error Plot - This plot compates model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
+*Figure 3: Model Error Plot - This plot compares model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
 
 #### [2.3.2) Machine Learning Framework - Pima Indians](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians)
 **Why This Project Matters:**
