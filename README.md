@@ -150,29 +150,21 @@ Sentiment analysis is a pivotal tool in cybersecurity, leveraging natural langua
 *Figure 1: This image showing how the GloVe algorithm was used to classify sentiment analysis by appling an Emoji at the end of a sentence.*
 ### 2.3) Data Science Frameworks
 #### [2.3.1) Generalized Data Science Framework - Titanic](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic)
-**Why This Project Matters:**
+## Executive Summary
 
-This project outlines a robust framework for approaching data science tasks, emphasizing the importance of a systematic and methodical approach. It showcases my ability to design and implement a diverse set of models to achieve optimal results.
+Welcome to my Framework for Solving Data Science Problems. This repository provides a comprehensive framework for solving data science problems. The project builds upon one of the most popular [Kaggle notebooks](https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy), leveraging best-in-class methodologies to create a reliable foundation for solving data science problems. By reproducing and substantially building upon this work, I aim to illustrate the value of learning from top practitioners while also solving one of the most important problems in data science.
 
-**Project Highlights:**
-- **Comprehensive Framework:** Provides a detailed approach to solving data science problems, serving as a foundational template for various projects.
-- **Model Ensemble:** Includes multiple traditional machine learning models, demonstrating the power of ensemble techniques in improving predictive accuracy.
+Rushing into a data science project without a structured approach can lead to numerous problems, which can severely impact project success, cost, and outcomes. This project addresses these issues by implementing a well-defined framework and best practices ensuring thorough problem understanding, effective data preprocessing, and robust model evaluation.
 
-## Results and Insights
+Borrowing fron the giants of Agile, DevOps, and Lean Entrepreneurship, we are leveragine the concept of ['shifting left'](https://en.wikipedia.org/wiki/Shift-left_testing) to support a more flexible and adaptive development process, facilitating faster delivery of high-quality data science solutions that originate from clearly defined business needs.
 
-The project results include detailed analysis, model performance metrics, and visualizations that provide insights into the predictive power of the models used.
+This project applies the above concepts to the popular "Titanic - Machine Learning from Disaster" Kaggle competition and can applied generally to a wide array of data science problems.
+
+Thank you for visiting my repository. I hope this project inspires you to implement a structured approach to avoid common data science pitfalls.  I welcome comments: especially those that will help improve upon this concept.
 
 ![Model results table](img/ModelMeasurementsPlot.png)
 
-Our top four models (test accuracy) are BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting.
-
-Defining avoidable bias as 1.0 - train accuracy. 1.0 is arguably an unrealistic figure for human level error. We can justify it given that over 250 submissions reported perfect accuracy scores.
-
-Defining variance as the spread between test error and train error. Typically it is better to use the difference in dev error (validation error) and training error. In the case of our models, there is a wide margin between validation error and test error so we are including it in our variance error calculation.
-
-![Model variance indicator](img/BiasVariancePlot.png)
-
-As a general rule for model performance, we want to work on improving the greater error (bias or variance).
+*Figure 1: Model Accuracy - This plot shows train, validate and test model accuracies in Kaggle test accuracy order.  The top four models (BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting) outperformed both hard and soft voting ensemble models.  The Baseline Handmade Decision Tree model several other models.*
 
 #### [2.3.2) Machine Learning Framework - Pima Indians](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians)
 **Why This Project Matters:**
