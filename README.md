@@ -152,7 +152,7 @@ Sentiment analysis is a pivotal tool in cybersecurity, leveraging natural langua
 #### [2.3.1) Generalized Data Science Framework - Titanic](https://github.com/rexcoleman/GeneralizedDataScienceFramework-Titanic)
 ## Executive Summary
 
-Welcome to my Framework for Solving Data Science Problems. This repository provides a comprehensive framework for solving data science problems. The project builds upon one of the most popular [Kaggle notebooks](https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy), leveraging best-in-class methodologies to create a reliable foundation for solving data science problems. By reproducing and substantially building upon this work, I aim to illustrate the value of learning from top practitioners while also solving one of the most important problems in data science.
+This project provides a comprehensive framework for solving data science problems. The project builds upon one of the most popular [Kaggle notebooks](https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy), leveraging best-in-class methodologies to create a reliable foundation for solving data science problems. By reproducing and substantially building upon this work, I aim to illustrate the value of learning from top practitioners while also solving one of the most important problems in data science.
 
 Rushing into a data science project without a structured approach can lead to numerous problems, which can severely impact project success, cost, and outcomes. This project addresses these issues by implementing a well-defined framework and best practices ensuring thorough problem understanding, effective data preprocessing, and robust model evaluation.
 
@@ -165,6 +165,10 @@ Thank you for visiting my repository. I hope this project inspires you to implem
 ![Model results table](img/ModelMeasurementsPlot.png)
 
 *Figure 1: Model Accuracy - This plot shows train, validate and test model accuracies in Kaggle test accuracy order.  The top four models (BaggineClassifier, BernoulliNB, XGBClassifier and EnsembleHardVoting) outperformed both hard and soft voting ensemble models.  The Baseline Handmade Decision Tree model several other models.*
+
+![Model variance indicator](img/bias_variance_plot.png)
+
+*Figure 3: Model Error Plot - This plot compates model error across multiple models. Bias error is defined as perfect accuracy minus train accuracy. Variance is defined as test error and train error.  Typically it is better to use the difference in dev errer (validation error) and training error.  In the case of our models, there is a wide margin between test error and validation error so I am including it in my variance error calculation.*
 
 #### [2.3.2) Machine Learning Framework - Pima Indians](https://github.com/rexcoleman/Machine-Learning-Framework-Pima-Indians)
 **Why This Project Matters:**
